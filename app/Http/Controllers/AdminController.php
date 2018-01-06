@@ -10,6 +10,10 @@ use App\Expert;
 use App\Contact;
 use App\UserInfo;
 
+use App\Province;
+use App\District;
+use App\SubDistrict;
+
 class AdminController extends Controller
 {
     /**
@@ -90,12 +94,13 @@ class AdminController extends Controller
     }
 
     public function expertIndex() {
-        $experts = Expert::orderBy('fname_th', 'asd')->get();
+        $experts = Expert::orderBy('fname_th', 'asd')->get();        
         return view('admins.expert', ['experts' => $experts]);
     }
 
     public function expertCreate(){
-        return view('admins.create');
+        $provinces = Province::orderBy('province_name', 'asc')->get();
+        return view('admins.create', ['provinces' => $provinces]);
     }
 
     public function expertStore(Request $req) {

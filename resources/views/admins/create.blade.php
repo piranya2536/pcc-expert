@@ -233,7 +233,9 @@
                             <td>จังหวัด</td>
                             <td>
                                 <select name="province_id" id="province_id" value="{{ old('province_id') }}">
-                                    <option value="50">ภูเก็ต</option/>
+                                    @foreach($provinces as $i => $province)
+                                    <option value="{{ $province->id }}">{{ $province->province_name }}</option/>
+                                    @endforeach    
                                 </select>
                             </td>
                             <td colspan=2></td>
