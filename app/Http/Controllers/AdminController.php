@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Validator;
 
 use App\Admin;
 use App\Expert;
-use App\Contect;
+use App\Contact;
 use App\UserInfo;
 
 class AdminController extends Controller
@@ -120,7 +120,26 @@ class AdminController extends Controller
             'nationality' => $data['nationality'],
             'bursary' => $data['bursary']
         ]);
+        $contact_result = Contact::create([
+          'phone' => $data['phone'],
+          'phone_list' => $data['phone_list'],
+          'fax' => $data['fax'],
+          'fax_list' => $data['fax_list'],
+          'mobile' => $data['mobile'],
+          'email' => $data['email'],
+          'facebook' => $data['facebook'],
+          'twitter' => $data['twitter'],
+          'line' => $data['line']
+
+        ]);
+
         return redirect('admin/expert');
+    }
+
+    public function expertDestroy(Request $req) {
+        $exp_id = $req->get('exp_id');
+        $result = Expert::destroy($exp_id);
+        return "success";
     }
 
     protected function validator(array $data) {

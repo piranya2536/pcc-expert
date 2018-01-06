@@ -61,7 +61,9 @@
                                 <td>{{ $i+1 }}</td>
                                 <td>{{ $val->title }} {{ $val->fname_th }} {{ $val->lname_th }}</td>
                                 <td></td>
-                                <td></td>
+                                <td>
+                                    <button class="btn btn-danger btn-cancel-action swal-delete" data-id="{{ $val->id }}">ลบ</button>
+                                </td>
                             </tr>
                         @endforeach
                         </tbody>
@@ -74,4 +76,46 @@
             </div>
         </div>
     </div>
+    <script>
+        $(function() {
+            $('.swal-delete').click(function(e) {
+                e.preventDefault();
+                swal({
+                    title: 'Are you sure?',
+                    text: 'You will not be able to recover this imaginary file!',
+                    type: 'warning',
+                    showCancelButton: true,
+                    confirmButtonText: 'Yes, delete it!',
+                    cancelButtonText: 'No, keep it'
+                    }).then((result) => {
+                    if (result.value) {
+                        var exp_id = $(this).data('id');
+                        console.log('id: ' + exp_id);
+                        swal(
+                        'Deleted!',
+                        'Your imaginary file has been deleted.',
+                        'success'
+                        );
+                        $.ajax({
+                            type: "DELETE",
+                            url: "{{ url('admin/expert') }}",
+                            dataType: 'json',
+                            async: true,
+                            data: JSON.stringify({ "exp_id": exp_id, "_token" : "{{ csrf_token() }}" }),
+                            contentType: 'application/json'
+                        });
+                        
+                        $(this).closest('tr').fadeOut(400);
+                    // result.dismiss can be 'overlay', 'cancel', 'close', 'esc', 'timer'
+                    } else if (result.dismiss === 'cancel') {
+                        swal(
+                        'Cancelled',
+                        'Your imaginary file is safe :)',
+                        'error'
+                        );
+                    }
+                    })
+            });
+        });
+    </script>
 @endsection

@@ -15,16 +15,15 @@ class CreateContactsTable extends Migration
     {
         Schema::create('contacts', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('phone');
-            $table->string('phone_list');
-            $table->string('fax');
-            $table->string('fax_id');
-            $table->string('fax_list');
+            $table->string('phone')->nullable();
+            $table->string('phone_list')->nullable();
+            $table->string('fax')->nullable();
+            $table->string('fax_list')->nullable();
             $table->string('mobile');
             $table->string('email');
-            $table->string('facebook');
-            $table->string('twitter');
-            $table->string('line');
+            $table->string('facebook')->nullable();
+            $table->string('twitter')->nullable();
+            $table->string('line')->nullable();
             $table->timestamps();
         });
     }
