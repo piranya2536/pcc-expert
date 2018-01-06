@@ -15,6 +15,7 @@ class CreateExpertsTable extends Migration
     {
         Schema::create('experts', function (Blueprint $table) {
             $table->increments('id');
+            $table->integer('user_id')->default(0);
             $table->string('id_card', 16);
             $table->string('title');
             $table->string('academic_pos');
@@ -22,10 +23,11 @@ class CreateExpertsTable extends Migration
             $table->string('lname_th');
             $table->string('fname_en');
             $table->string('lname_en');
-            $table->tinyInteger('gender');
+            $table->string('gender', 8);
             $table->date('birthday');
             $table->string('nationality');
-            $table->string('image');
+            $table->tinyInteger('bursary');
+            $table->string('image')->default('-');
             $table->timestamps();
         });
     }

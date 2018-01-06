@@ -18,3 +18,11 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::prefix('admin')->group(function () {
+    Route::get('expert', 'AdminController@expertIndex');
+    Route::get('expert/create', 'AdminController@expertCreate');
+    Route::post('expert', 'AdminController@expertStore');
+});
+
+Route::resource('admin', 'AdminController');
