@@ -20,7 +20,6 @@ class CreateSubDistrictsTable extends Migration
             $table->string('sub_district_name_en', 150);
             $table->string('zipcode', 5);
             $table->integer('district_id');
-            $table->integer('amphur_id');
             $table->integer('province_id');
             $table->integer('geo_id');
             $table->timestamps();
