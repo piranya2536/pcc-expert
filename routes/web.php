@@ -20,6 +20,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::prefix('admin')->group(function () {
+    Route::get('login', 'AdminController@getLogin');
     Route::get('expert', 'AdminController@expertIndex');
     Route::get('expert/create', 'AdminController@expertCreate');
     Route::post('expert', 'AdminController@expertStore');

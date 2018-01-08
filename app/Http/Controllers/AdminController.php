@@ -93,6 +93,11 @@ class AdminController extends Controller
         //
     }
 
+    public function getLogin()
+    {
+        return view('admins.login');
+    }
+
     public function expertIndex() {
         $experts = Expert::orderBy('fname_th', 'asd')->get();        
         return view('admins.expert', ['experts' => $experts]);
@@ -100,7 +105,9 @@ class AdminController extends Controller
 
     public function expertCreate(){
         $provinces = Province::orderBy('province_name', 'asc')->get();
-        return view('admins.create', ['provinces' => $provinces]);
+        $districts = District::all();
+        $sub_districts = SubDistrict::all();
+        return view('admins.create', ['provinces' => $provinces, 'districts' => $districts, 'sub_districts' => $sub_districts]);
     }
 
     public function expertStore(Request $req) {
