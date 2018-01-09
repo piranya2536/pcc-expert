@@ -19,6 +19,8 @@ class CreateWorksTable extends Migration
             $table->date('work_start');
             $table->date('work_end');
             $table->string('company_name');
+            $table->string('position');
+            $table->string('jop_des');
             $table->integer('province_id');
             $table->integer('country_id');
             $table->timestamps();
