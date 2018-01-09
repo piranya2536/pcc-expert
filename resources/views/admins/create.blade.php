@@ -285,19 +285,19 @@
                 <label class="col-sm-2 col-form-label">ประเทศ</label>
                 <div class="col-sm-10">
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="country" id="country1" value="ไทย" checked>
-                        <label class="custom-control-label" for="country1">ไทย</label>
+                        <input class="custom-control-input" type="radio" name="wk_country" id="wk_country_1" value="ไทย" checked>
+                        <label class="custom-control-label" for="wk_country_1">ไทย</label>
                     </div>
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="country" id="country2" value="ไทย">
-                        <label class="custom-control-label" for="country2">อื่นๆ</label>
+                        <input class="custom-control-input" type="radio" name="wk_country" id="wk_country_2" value="ไทย">
+                        <label class="custom-control-label" for="wk_country_2">อื่นๆ</label>
                     </div>
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">จังหวัด</label>
                 <div class="form-group col-md-6 nav-container">
-                    <select class="form-control nav" name="wk_sprovince_id" id="wk_sprovince_id" value="{{ old('wk_sprovince_id') }}">
+                    <select class="form-control nav" name="wk_province_id" id="wk_province_id" value="{{ old('wk_province_id') }}">
                         @foreach($provinces as $i => $province)
                         <option value="{{ $province->id }}">{{ $province->province_name }}
                             </option/> @endforeach
@@ -307,7 +307,7 @@
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ตำแหน่ง</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="text" class="form-control" id="position" name="position" placeholder="" required value="{{ old('position') }}">
                 </div>
             </div>
             <div class="form-group">
@@ -331,7 +331,7 @@
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ลักษณะงานที่รับผิดชอบ</label>
                 <div class="form-group col-md-6">
-                    <textarea id="message" name="phone" class="form-control"></textarea>
+                    <textarea id="job_des" name="job_des" class="form-control"></textarea>
                 </div>
             </div>
         </div>

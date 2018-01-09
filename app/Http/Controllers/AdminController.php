@@ -145,12 +145,13 @@ class AdminController extends Controller
           'line' => $data['line']
 
         ]);
-        $work_result = Work::create([  
+        $work_result = Work::create([
+           'expert_id' => $expert_result->id,
            'work_start' => $data['work_start'],
            'work_end'=> $data['work_end'],
            'company_name'=> $data['company_name'],
-           'province_id'=> $data['province_id'],
-           'country_id'=> $data['country_id'],
+           'province_id'=> $data['wk_province_id'],
+           'country'=> $data['country'],
            'position'=> $data['position'],
            'job_des'=> $data['job_des']
             

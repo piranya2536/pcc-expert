@@ -788,6 +788,11 @@ class ProvincesTableSeeder extends Seeder
                 'updated_at' => NULL,
             ),
         ));
+
+        \DB::table('provinces')->update([
+            'created_at' => date('Y-m-d H:i:s'),
+            'updated_at' => date('Y-m-d H:i:s')
+            ]);
         
         
     }

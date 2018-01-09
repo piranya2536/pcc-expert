@@ -17,7 +17,7 @@
 
 <body>
     @section('sidebar')
-    <img class="img-fluid" src="../../assets/img/psu2.png" alt="First slide" width="350" height="auto" >
+    <img class="img-fluid" src="{{ asset('assets/img/psu2.png') }}" alt="First slide" width="350" height="auto" >
     <nav class="navbar navbar-expand-lg navbar-light bg-info">
         <a class="navbar-brand">
             <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjonpmR2eHWAhUGuI8KHXw7CY8QjRwIBw&url=https%3A%2F%2Fwww.humanrightslogo.net%2Fen%2Fdownload&psig=AOvVaw0wnsRAS60Q_93j-WdF7J2y&ust=1507575119963069"

@@ -115921,6 +115921,11 @@ class SubDistrictsTableSeeder extends Seeder
             'updated_at' => NULL,
         ),
     ));
+
+    \DB::table('sub_districts')->update([
+            'created_at' => date('Y-m-d H:i:s'),
+            'updated_at' => date('Y-m-d H:i:s')
+            ]);
         
         
     }

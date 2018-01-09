@@ -25,8 +25,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Phra Nakhon',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             1 => 
             array (
@@ -36,8 +36,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Dusit',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             2 => 
             array (
@@ -47,8 +47,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet  Nong Chok',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             3 => 
             array (
@@ -58,8 +58,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Rak',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             4 => 
             array (
@@ -69,8 +69,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Khen',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             5 => 
             array (
@@ -80,8 +80,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Kapi',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             6 => 
             array (
@@ -91,8 +91,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Pathum Wan',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             7 => 
             array (
@@ -102,8 +102,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Pom Prap Sattru Phai',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             8 => 
             array (
@@ -113,8 +113,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Phra Khanong',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             9 => 
             array (
@@ -124,8 +124,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Min Buri',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             10 => 
             array (
@@ -135,8 +135,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Lat Krabang',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             11 => 
             array (
@@ -146,8 +146,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Yan Nawa',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             12 => 
             array (
@@ -157,8 +157,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Samphanthawong',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             13 => 
             array (
@@ -168,8 +168,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Phaya Thai',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             14 => 
             array (
@@ -179,8 +179,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Thon Buri',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             15 => 
             array (
@@ -190,8 +190,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bangkok Yai',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             16 => 
             array (
@@ -201,8 +201,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Huai Khwang',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             17 => 
             array (
@@ -212,8 +212,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Khlong San',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             18 => 
             array (
@@ -223,8 +223,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Taling Chan',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             19 => 
             array (
@@ -234,8 +234,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bangkok Noi',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             20 => 
             array (
@@ -245,8 +245,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Khun Thian',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             21 => 
             array (
@@ -256,8 +256,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Phasi Charoen',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             22 => 
             array (
@@ -267,8 +267,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Nong Khaem',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             23 => 
             array (
@@ -278,8 +278,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Rat Burana',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             24 => 
             array (
@@ -289,8 +289,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Phlat',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             25 => 
             array (
@@ -300,8 +300,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Din Daeng',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             26 => 
             array (
@@ -311,8 +311,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bueng Kum',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             27 => 
             array (
@@ -322,8 +322,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Sathon',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             28 => 
             array (
@@ -333,8 +333,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Sue',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             29 => 
             array (
@@ -344,8 +344,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Chatuchak',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             30 => 
             array (
@@ -355,8 +355,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Kho Laem',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             31 => 
             array (
@@ -366,8 +366,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Prawet',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             32 => 
             array (
@@ -377,8 +377,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Khlong Toei',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             33 => 
             array (
@@ -388,8 +388,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Suan Luang',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             34 => 
             array (
@@ -399,8 +399,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Chom Thong',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             35 => 
             array (
@@ -410,8 +410,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Don Mueang',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             36 => 
             array (
@@ -421,8 +421,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Ratchathewi',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             37 => 
             array (
@@ -432,8 +432,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Lat Phrao',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             38 => 
             array (
@@ -443,8 +443,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Watthana',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             39 => 
             array (
@@ -454,8 +454,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Khae',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             40 => 
             array (
@@ -465,8 +465,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Lak Si',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             41 => 
             array (
@@ -476,8 +476,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Sai Mai',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             42 => 
             array (
@@ -487,8 +487,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Khan Na Yao',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             43 => 
             array (
@@ -498,8 +498,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Saphan Sung',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             44 => 
             array (
@@ -509,8 +509,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Wang Thonglang',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             45 => 
             array (
@@ -520,8 +520,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Khlong Sam Wa',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             46 => 
             array (
@@ -531,8 +531,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Na',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             47 => 
             array (
@@ -542,8 +542,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Thawi Watthana',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             48 => 
             array (
@@ -553,8 +553,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Thung Khru',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             49 => 
             array (
@@ -564,8 +564,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khet Bang Bon',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             50 => 
             array (
@@ -575,8 +575,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bantawai',
                 'province_id' => 1,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             51 => 
             array (
@@ -586,8 +586,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Samut Prakan',
                 'province_id' => 2,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             52 => 
             array (
@@ -597,8 +597,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Bo',
                 'province_id' => 2,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             53 => 
             array (
@@ -608,8 +608,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Phli',
                 'province_id' => 2,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             54 => 
             array (
@@ -619,8 +619,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phra Pradaeng',
                 'province_id' => 2,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             55 => 
             array (
@@ -630,8 +630,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phra Samut Chedi',
                 'province_id' => 2,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             56 => 
             array (
@@ -641,8 +641,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Sao Thong',
                 'province_id' => 2,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             57 => 
             array (
@@ -652,8 +652,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nonthaburi',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             58 => 
             array (
@@ -663,8 +663,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Kruai',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             59 => 
             array (
@@ -674,8 +674,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Yai',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             60 => 
             array (
@@ -685,8 +685,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Bua Thong',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             61 => 
             array (
@@ -696,8 +696,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sai Noi',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             62 => 
             array (
@@ -707,8 +707,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Kret',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             63 => 
             array (
@@ -718,8 +718,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tetsaban Nonthaburi',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             64 => 
             array (
@@ -729,8 +729,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tetsaban Pak Kret',
                 'province_id' => 3,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             65 => 
             array (
@@ -740,8 +740,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Pathum Thani',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             66 => 
             array (
@@ -751,8 +751,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Luang',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             67 => 
             array (
@@ -762,8 +762,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thanyaburi',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             68 => 
             array (
@@ -773,8 +773,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Suea',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             69 => 
             array (
@@ -784,8 +784,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lat Lum Kaeo',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             70 => 
             array (
@@ -795,8 +795,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lam Luk Ka',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             71 => 
             array (
@@ -806,8 +806,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Khok',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             72 => 
             array (
@@ -817,8 +817,8 @@ class DistrictsTableSeeder extends Seeder
             'district_name_en' => 'Khlong Luang(Kukod)',
                 'province_id' => 4,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             73 => 
             array (
@@ -828,8 +828,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phra Nakhon Si Ayutthaya',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             74 => 
             array (
@@ -839,8 +839,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Ruea',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             75 => 
             array (
@@ -850,8 +850,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nakhon Luang',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             76 => 
             array (
@@ -861,8 +861,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Sai',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             77 => 
             array (
@@ -872,8 +872,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Ban',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             78 => 
             array (
@@ -883,8 +883,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Pa-in',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             79 => 
             array (
@@ -894,8 +894,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Pahan',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             80 => 
             array (
@@ -905,8 +905,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phak Hai',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             81 => 
             array (
@@ -916,8 +916,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phachi',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             82 => 
             array (
@@ -927,8 +927,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lat Bua Luang',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             83 => 
             array (
@@ -938,8 +938,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Noi',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             84 => 
             array (
@@ -949,8 +949,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sena',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             85 => 
             array (
@@ -960,8 +960,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Sai',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             86 => 
             array (
@@ -971,8 +971,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Uthai',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             87 => 
             array (
@@ -982,8 +982,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Maha Rat',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             88 => 
             array (
@@ -993,8 +993,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Phraek',
                 'province_id' => 5,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             89 => 
             array (
@@ -1004,8 +1004,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Ang Thong',
                 'province_id' => 6,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             90 => 
             array (
@@ -1015,8 +1015,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaiyo',
                 'province_id' => 6,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             91 => 
             array (
@@ -1026,8 +1026,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pa Mok',
                 'province_id' => 6,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             92 => 
             array (
@@ -1037,8 +1037,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Thong',
                 'province_id' => 6,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             93 => 
             array (
@@ -1048,8 +1048,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sawaeng Ha',
                 'province_id' => 6,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             94 => 
             array (
@@ -1059,8 +1059,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiset Chai Chan',
                 'province_id' => 6,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             95 => 
             array (
@@ -1070,8 +1070,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Samko',
                 'province_id' => 6,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             96 => 
             array (
@@ -1081,8 +1081,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Lop Buri',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             97 => 
             array (
@@ -1092,8 +1092,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phatthana Nikhom',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             98 => 
             array (
@@ -1103,8 +1103,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khok Samrong',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             99 => 
             array (
@@ -1114,8 +1114,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chai Badan',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             100 => 
             array (
@@ -1125,8 +1125,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Wung',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             101 => 
             array (
@@ -1136,8 +1136,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Mi',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             102 => 
             array (
@@ -1147,8 +1147,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Luang',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             103 => 
             array (
@@ -1158,8 +1158,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sa Bot',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             104 => 
             array (
@@ -1169,8 +1169,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khok Charoen',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             105 => 
             array (
@@ -1180,8 +1180,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lam Sonthi',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             106 => 
             array (
@@ -1191,8 +1191,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Muang',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             107 => 
             array (
@@ -1202,8 +1202,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Amphoe Ban Chao',
                 'province_id' => 7,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             108 => 
             array (
@@ -1213,8 +1213,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Sing Buri',
                 'province_id' => 8,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             109 => 
             array (
@@ -1224,8 +1224,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Rachan',
                 'province_id' => 8,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             110 => 
             array (
@@ -1235,8 +1235,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khai Bang Rachan',
                 'province_id' => 8,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             111 => 
             array (
@@ -1246,8 +1246,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phrom Buri',
                 'province_id' => 8,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             112 => 
             array (
@@ -1257,8 +1257,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Chang',
                 'province_id' => 8,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             113 => 
             array (
@@ -1268,8 +1268,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'In Buri',
                 'province_id' => 8,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             114 => 
             array (
@@ -1279,8 +1279,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chai Nat',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             115 => 
             array (
@@ -1290,8 +1290,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Manorom',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             116 => 
             array (
@@ -1301,8 +1301,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wat Sing',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             117 => 
             array (
@@ -1312,8 +1312,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sapphaya',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             118 => 
             array (
@@ -1323,8 +1323,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sankhaburi',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             119 => 
             array (
@@ -1334,8 +1334,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hankha',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             120 => 
             array (
@@ -1345,8 +1345,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Mamong',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             121 => 
             array (
@@ -1356,8 +1356,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Noen Kham',
                 'province_id' => 9,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             122 => 
             array (
@@ -1367,8 +1367,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Saraburi',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             123 => 
             array (
@@ -1378,8 +1378,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaeng Khoi',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             124 => 
             array (
@@ -1389,8 +1389,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Khae',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             125 => 
             array (
@@ -1400,8 +1400,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wihan Daeng',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             126 => 
             array (
@@ -1411,8 +1411,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Saeng',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             127 => 
             array (
@@ -1422,8 +1422,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Mo',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             128 => 
             array (
@@ -1433,8 +1433,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Don Phut',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             129 => 
             array (
@@ -1444,8 +1444,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Don',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             130 => 
             array (
@@ -1455,8 +1455,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phra Phutthabat',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             131 => 
             array (
@@ -1466,8 +1466,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sao Hai',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             132 => 
             array (
@@ -1477,8 +1477,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Muak Lek',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             133 => 
             array (
@@ -1488,8 +1488,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Muang',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             134 => 
             array (
@@ -1499,8 +1499,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaloem Phra Kiat',
                 'province_id' => 10,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             135 => 
             array (
@@ -1510,8 +1510,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chon Buri',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             136 => 
             array (
@@ -1521,8 +1521,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Bueng',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             137 => 
             array (
@@ -1532,8 +1532,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Yai',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             138 => 
             array (
@@ -1543,8 +1543,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Lamung',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             139 => 
             array (
@@ -1554,8 +1554,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phan Thong',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             140 => 
             array (
@@ -1565,8 +1565,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phanat Nikhom',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             141 => 
             array (
@@ -1576,8 +1576,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Racha',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             142 => 
             array (
@@ -1587,8 +1587,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Sichang',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             143 => 
             array (
@@ -1598,8 +1598,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sattahip',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             144 => 
             array (
@@ -1609,8 +1609,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bo Thong',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             145 => 
             array (
@@ -1620,8 +1620,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Chan',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             146 => 
             array (
@@ -1631,8 +1631,8 @@ class DistrictsTableSeeder extends Seeder
             'district_name_en' => 'Sattahip(Bang Sre)',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             147 => 
             array (
@@ -1642,8 +1642,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tong Tin Tetsaban Mueang Nong Prue',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             148 => 
             array (
@@ -1653,8 +1653,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tetsaban Tambon Lamsabang',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             149 => 
             array (
@@ -1664,8 +1664,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chon Buri',
                 'province_id' => 11,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             150 => 
             array (
@@ -1675,8 +1675,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Rayong',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             151 => 
             array (
@@ -1686,8 +1686,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Chang',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             152 => 
             array (
@@ -1697,8 +1697,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Klaeng',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             153 => 
             array (
@@ -1708,8 +1708,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Chan',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             154 => 
             array (
@@ -1719,8 +1719,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Khai',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             155 => 
             array (
@@ -1730,8 +1730,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pluak Daeng',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             156 => 
             array (
@@ -1741,8 +1741,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Chamao',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             157 => 
             array (
@@ -1752,8 +1752,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nikhom Phatthana',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             158 => 
             array (
@@ -1763,8 +1763,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Saka Tambon Mabka',
                 'province_id' => 12,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             159 => 
             array (
@@ -1774,8 +1774,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chanthaburi',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             160 => 
             array (
@@ -1785,8 +1785,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlung',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             161 => 
             array (
@@ -1796,8 +1796,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Mai',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             162 => 
             array (
@@ -1807,8 +1807,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pong Nam Ron',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             163 => 
             array (
@@ -1818,8 +1818,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Makham',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             164 => 
             array (
@@ -1829,8 +1829,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Laem Sing',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             165 => 
             array (
@@ -1840,8 +1840,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Soi Dao',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             166 => 
             array (
@@ -1851,8 +1851,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaeng Hang Maeo',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             167 => 
             array (
@@ -1862,8 +1862,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Yai Am',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             168 => 
             array (
@@ -1873,8 +1873,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khoa Khitchakut',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             169 => 
             array (
@@ -1884,8 +1884,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'King Amphoe Kampud',
                 'province_id' => 13,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             170 => 
             array (
@@ -1895,8 +1895,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Trat',
                 'province_id' => 14,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             171 => 
             array (
@@ -1906,8 +1906,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Yai',
                 'province_id' => 14,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             172 => 
             array (
@@ -1917,8 +1917,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Saming',
                 'province_id' => 14,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             173 => 
             array (
@@ -1928,8 +1928,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bo Rai',
                 'province_id' => 14,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             174 => 
             array (
@@ -1939,8 +1939,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Laem Ngop',
                 'province_id' => 14,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             175 => 
             array (
@@ -1950,8 +1950,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Kut',
                 'province_id' => 14,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             176 => 
             array (
@@ -1961,8 +1961,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Chang',
                 'province_id' => 14,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             177 => 
             array (
@@ -1972,8 +1972,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chachoengsao',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             178 => 
             array (
@@ -1983,8 +1983,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Khla',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             179 => 
             array (
@@ -1994,8 +1994,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Nam Priao',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             180 => 
             array (
@@ -2005,8 +2005,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Pakong',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             181 => 
             array (
@@ -2016,8 +2016,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Pho',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             182 => 
             array (
@@ -2027,8 +2027,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phanom Sarakham',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             183 => 
             array (
@@ -2038,8 +2038,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ratchasan',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             184 => 
             array (
@@ -2049,8 +2049,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sanam Chai Khet',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             185 => 
             array (
@@ -2060,8 +2060,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Plaeng Yao',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             186 => 
             array (
@@ -2071,8 +2071,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Takiap',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             187 => 
             array (
@@ -2082,8 +2082,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Khuean',
                 'province_id' => 15,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             188 => 
             array (
@@ -2093,8 +2093,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Prachin Buri',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             189 => 
             array (
@@ -2104,8 +2104,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kabin Buri',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             190 => 
             array (
@@ -2115,8 +2115,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Di',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             191 => 
             array (
@@ -2126,8 +2126,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sa Kaeo',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             192 => 
             array (
@@ -2137,8 +2137,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Nam Yen',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             193 => 
             array (
@@ -2148,8 +2148,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Sang',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             194 => 
             array (
@@ -2159,8 +2159,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Prachantakham',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             195 => 
             array (
@@ -2170,8 +2170,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Maha Phot',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             196 => 
             array (
@@ -2181,8 +2181,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Mahosot',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             197 => 
             array (
@@ -2192,8 +2192,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Aranyaprathet',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             198 => 
             array (
@@ -2203,8 +2203,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ta Phraya',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             199 => 
             array (
@@ -2214,8 +2214,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Watthana Nakhon',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             200 => 
             array (
@@ -2225,8 +2225,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Hat',
                 'province_id' => 16,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             201 => 
             array (
@@ -2236,8 +2236,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nakhon Nayok',
                 'province_id' => 17,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             202 => 
             array (
@@ -2247,8 +2247,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Phli',
                 'province_id' => 17,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             203 => 
             array (
@@ -2258,8 +2258,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Na',
                 'province_id' => 17,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             204 => 
             array (
@@ -2269,8 +2269,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ongkharak',
                 'province_id' => 17,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             205 => 
             array (
@@ -2280,8 +2280,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Sa Kaeo',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             206 => 
             array (
@@ -2291,8 +2291,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Hat',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             207 => 
             array (
@@ -2302,8 +2302,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ta Phraya',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             208 => 
             array (
@@ -2313,8 +2313,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Nam Yen',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             209 => 
             array (
@@ -2324,8 +2324,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Watthana Nakhon',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             210 => 
             array (
@@ -2335,8 +2335,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Aranyaprathet',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             211 => 
             array (
@@ -2346,8 +2346,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Chakan',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             212 => 
             array (
@@ -2357,8 +2357,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khok Sung',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             213 => 
             array (
@@ -2368,8 +2368,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Sombun',
                 'province_id' => 18,
                 'geo_id' => 5,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             214 => 
             array (
@@ -2379,8 +2379,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nakhon Ratchasima',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             215 => 
             array (
@@ -2390,8 +2390,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khon Buri',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             216 => 
             array (
@@ -2401,8 +2401,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Soeng Sang',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             217 => 
             array (
@@ -2412,8 +2412,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khong',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             218 => 
             array (
@@ -2423,8 +2423,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Lueam',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             219 => 
             array (
@@ -2434,8 +2434,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chakkarat',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             220 => 
             array (
@@ -2445,8 +2445,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chok Chai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             221 => 
             array (
@@ -2456,8 +2456,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Dan Khun Thot',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             222 => 
             array (
@@ -2467,8 +2467,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Thai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             223 => 
             array (
@@ -2478,8 +2478,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Sung',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             224 => 
             array (
@@ -2489,8 +2489,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kham Sakaesaeng',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             225 => 
             array (
@@ -2500,8 +2500,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bua Yai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             226 => 
             array (
@@ -2511,8 +2511,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Prathai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             227 => 
             array (
@@ -2522,8 +2522,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Thong Chai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             228 => 
             array (
@@ -2533,8 +2533,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phimai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             229 => 
             array (
@@ -2544,8 +2544,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Thalaeng',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             230 => 
             array (
@@ -2555,8 +2555,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chum Phuang',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             231 => 
             array (
@@ -2566,8 +2566,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sung Noen',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             232 => 
             array (
@@ -2577,8 +2577,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kham Thale So',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             233 => 
             array (
@@ -2588,8 +2588,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sikhio',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             234 => 
             array (
@@ -2599,8 +2599,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Chong',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             235 => 
             array (
@@ -2610,8 +2610,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Bunnak',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             236 => 
             array (
@@ -2621,8 +2621,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaeng Sanam Nang',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             237 => 
             array (
@@ -2632,8 +2632,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Daeng',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             238 => 
             array (
@@ -2643,8 +2643,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Nam Khiao',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             239 => 
             array (
@@ -2654,8 +2654,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thepharak',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             240 => 
             array (
@@ -2665,8 +2665,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Yang',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             241 => 
             array (
@@ -2676,8 +2676,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phra Thong Kham',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             242 => 
             array (
@@ -2687,8 +2687,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lam Thamenchai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             243 => 
             array (
@@ -2698,8 +2698,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bua Lai',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             244 => 
             array (
@@ -2709,8 +2709,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sida',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             245 => 
             array (
@@ -2720,8 +2720,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaloem Phra Kiat',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             246 => 
             array (
@@ -2731,8 +2731,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Krang',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             247 => 
             array (
@@ -2742,8 +2742,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ma Ka-Pon Songkram',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             248 => 
             array (
@@ -2753,8 +2753,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Lao',
                 'province_id' => 19,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             249 => 
             array (
@@ -2764,8 +2764,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Buri Ram',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             250 => 
             array (
@@ -2775,8 +2775,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khu Mueang',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             251 => 
             array (
@@ -2786,8 +2786,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Krasang',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             252 => 
             array (
@@ -2797,8 +2797,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nang Rong',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             253 => 
             array (
@@ -2808,8 +2808,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Ki',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             254 => 
             array (
@@ -2819,8 +2819,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lahan Sai',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             255 => 
             array (
@@ -2830,8 +2830,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Prakhon Chai',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             256 => 
             array (
@@ -2841,8 +2841,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Kruat',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             257 => 
             array (
@@ -2852,8 +2852,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phutthaisong',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             258 => 
             array (
@@ -2863,8 +2863,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lam Plai Mat',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             259 => 
             array (
@@ -2874,8 +2874,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Satuek',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             260 => 
             array (
@@ -2885,8 +2885,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pakham',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             261 => 
             array (
@@ -2896,8 +2896,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Pho',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             262 => 
             array (
@@ -2907,8 +2907,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Hong',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             263 => 
             array (
@@ -2918,8 +2918,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phlapphla Chai',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             264 => 
             array (
@@ -2929,8 +2929,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Rat',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             265 => 
             array (
@@ -2940,8 +2940,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Suwan',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             266 => 
             array (
@@ -2951,8 +2951,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chamni',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             267 => 
             array (
@@ -2962,8 +2962,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Mai Chaiyaphot',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             268 => 
             array (
@@ -2973,8 +2973,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Din Daeng',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             269 => 
             array (
@@ -2984,8 +2984,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Dan',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             270 => 
             array (
@@ -2995,8 +2995,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khaen Dong',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             271 => 
             array (
@@ -3006,8 +3006,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaloem Phra Kiat',
                 'province_id' => 20,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             272 => 
             array (
@@ -3017,8 +3017,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Surin',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             273 => 
             array (
@@ -3028,8 +3028,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chumphon Buri',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             274 => 
             array (
@@ -3039,8 +3039,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Tum',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             275 => 
             array (
@@ -3050,8 +3050,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chom Phra',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             276 => 
             array (
@@ -3061,8 +3061,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Prasat',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             277 => 
             array (
@@ -3072,8 +3072,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kap Choeng',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             278 => 
             array (
@@ -3083,8 +3083,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Rattanaburi',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             279 => 
             array (
@@ -3094,8 +3094,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sanom',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             280 => 
             array (
@@ -3105,8 +3105,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sikhoraphum',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             281 => 
             array (
@@ -3116,8 +3116,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sangkha',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             282 => 
             array (
@@ -3127,8 +3127,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lamduan',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             283 => 
             array (
@@ -3138,8 +3138,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Samrong Thap',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             284 => 
             array (
@@ -3149,8 +3149,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Buachet',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             285 => 
             array (
@@ -3160,8 +3160,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phanom Dong Rak',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             286 => 
             array (
@@ -3171,8 +3171,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Narong',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             287 => 
             array (
@@ -3182,8 +3182,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khwao Sinarin',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             288 => 
             array (
@@ -3193,8 +3193,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Narai',
                 'province_id' => 21,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             289 => 
             array (
@@ -3204,8 +3204,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Si Sa Ket',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             290 => 
             array (
@@ -3215,8 +3215,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yang Chum Noi',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             291 => 
             array (
@@ -3226,8 +3226,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kanthararom',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             292 => 
             array (
@@ -3237,8 +3237,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kantharalak',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             293 => 
             array (
@@ -3248,8 +3248,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khukhan',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             294 => 
             array (
@@ -3259,8 +3259,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phrai Bueng',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             295 => 
             array (
@@ -3270,8 +3270,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Prang Ku',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             296 => 
             array (
@@ -3281,8 +3281,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khun Han',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             297 => 
             array (
@@ -3292,8 +3292,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Rasi Salai',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             298 => 
             array (
@@ -3303,8 +3303,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Uthumphon Phisai',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             299 => 
             array (
@@ -3314,8 +3314,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bueng Bun',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             300 => 
             array (
@@ -3325,8 +3325,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Thap Than',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             301 => 
             array (
@@ -3336,8 +3336,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Khun',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             302 => 
             array (
@@ -3347,8 +3347,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Rattana',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             303 => 
             array (
@@ -3358,8 +3358,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Rattana',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             304 => 
             array (
@@ -3369,8 +3369,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Hin',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             305 => 
             array (
@@ -3380,8 +3380,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Sing',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             306 => 
             array (
@@ -3391,8 +3391,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chan',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             307 => 
             array (
@@ -3402,8 +3402,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Benchalak',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             308 => 
             array (
@@ -3413,8 +3413,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phayu',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             309 => 
             array (
@@ -3424,8 +3424,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Si Suwan',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             310 => 
             array (
@@ -3435,8 +3435,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sila Lat',
                 'province_id' => 22,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             311 => 
             array (
@@ -3446,8 +3446,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Ubon Ratchathani',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             312 => 
             array (
@@ -3457,8 +3457,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Mueang Mai',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             313 => 
             array (
@@ -3468,8 +3468,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khong Chiam',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             314 => 
             array (
@@ -3479,8 +3479,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khueang Nai',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             315 => 
             array (
@@ -3490,8 +3490,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khemarat',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             316 => 
             array (
@@ -3501,8 +3501,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Shanuman',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             317 => 
             array (
@@ -3512,8 +3512,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Det Udom',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             318 => 
             array (
@@ -3523,8 +3523,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Chaluai',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             319 => 
             array (
@@ -3534,8 +3534,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nam Yuen',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             320 => 
             array (
@@ -3545,8 +3545,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Buntharik',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             321 => 
             array (
@@ -3556,8 +3556,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Trakan Phuet Phon',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             322 => 
             array (
@@ -3567,8 +3567,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kut Khaopun',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             323 => 
             array (
@@ -3578,8 +3578,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phana',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             324 => 
             array (
@@ -3589,8 +3589,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Muang Sam Sip',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             325 => 
             array (
@@ -3600,8 +3600,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Warin Chamrap',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             326 => 
             array (
@@ -3611,8 +3611,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Amnat Charoen',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             327 => 
             array (
@@ -3622,8 +3622,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Senangkhanikhom',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             328 => 
             array (
@@ -3633,8 +3633,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hua Taphan',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             329 => 
             array (
@@ -3644,8 +3644,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phibun Mangsahan',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             330 => 
             array (
@@ -3655,8 +3655,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tan Sum',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             331 => 
             array (
@@ -3666,8 +3666,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Sai',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             332 => 
             array (
@@ -3677,8 +3677,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Samrong',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             333 => 
             array (
@@ -3688,8 +3688,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'King Amphoe Lue Amnat',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             334 => 
             array (
@@ -3699,8 +3699,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Don Mot Daeng',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             335 => 
             array (
@@ -3710,8 +3710,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sirindhorn',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             336 => 
             array (
@@ -3721,8 +3721,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Si Udom',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             337 => 
             array (
@@ -3732,8 +3732,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pathum Ratchawongsa',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             338 => 
             array (
@@ -3743,8 +3743,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'King Amphoe Sri Lunk Chai',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             339 => 
             array (
@@ -3754,8 +3754,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Yia',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             340 => 
             array (
@@ -3765,8 +3765,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Tan',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             341 => 
             array (
@@ -3776,8 +3776,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lao Suea Kok',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             342 => 
             array (
@@ -3787,8 +3787,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sawang Wirawong',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             343 => 
             array (
@@ -3798,8 +3798,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nam Khun',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             344 => 
             array (
@@ -3809,8 +3809,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Suwan Wari',
                 'province_id' => 23,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             345 => 
             array (
@@ -3820,8 +3820,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Yasothon',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             346 => 
             array (
@@ -3831,8 +3831,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sai Mun',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             347 => 
             array (
@@ -3842,8 +3842,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kut Chum',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             348 => 
             array (
@@ -3853,8 +3853,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kham Khuean Kaeo',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             349 => 
             array (
@@ -3864,8 +3864,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pa Tio',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             350 => 
             array (
@@ -3875,8 +3875,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Maha Chana Chai',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             351 => 
             array (
@@ -3886,8 +3886,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kho Wang',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             352 => 
             array (
@@ -3897,8 +3897,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Loeng Nok Tha',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             353 => 
             array (
@@ -3908,8 +3908,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thai Charoen',
                 'province_id' => 24,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             354 => 
             array (
@@ -3919,8 +3919,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chaiyaphum',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             355 => 
             array (
@@ -3930,8 +3930,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Khwao',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             356 => 
             array (
@@ -3941,8 +3941,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khon Sawan',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             357 => 
             array (
@@ -3952,8 +3952,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaset Sombun',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             358 => 
             array (
@@ -3963,8 +3963,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Bua Daeng',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             359 => 
             array (
@@ -3974,8 +3974,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chatturat',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             360 => 
             array (
@@ -3985,8 +3985,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bamnet Narong',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             361 => 
             array (
@@ -3996,8 +3996,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Bua Rawe',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             362 => 
             array (
@@ -4007,8 +4007,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thep Sathit',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             363 => 
             array (
@@ -4018,8 +4018,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Khiao',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             364 => 
             array (
@@ -4029,8 +4029,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Thaen',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             365 => 
             array (
@@ -4040,8 +4040,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaeng Khro',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             366 => 
             array (
@@ -4051,8 +4051,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khon San',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             367 => 
             array (
@@ -4062,8 +4062,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phakdi Chumphon',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             368 => 
             array (
@@ -4073,8 +4073,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Noen Sa-nga',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             369 => 
             array (
@@ -4084,8 +4084,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sap Yai',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             370 => 
             array (
@@ -4095,8 +4095,8 @@ class DistrictsTableSeeder extends Seeder
             'district_name_en' => 'Mueang Chaiyaphum(Non Sumran)',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             371 => 
             array (
@@ -4106,8 +4106,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Wha Tao',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             372 => 
             array (
@@ -4117,8 +4117,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Bua Daeng',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             373 => 
             array (
@@ -4128,8 +4128,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'King Amphoe Sap Yai',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             374 => 
             array (
@@ -4139,8 +4139,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Coke Phet',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             375 => 
             array (
@@ -4150,8 +4150,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thep Sathit',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             376 => 
             array (
@@ -4161,8 +4161,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Thaen',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             377 => 
             array (
@@ -4172,8 +4172,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaeng Khro',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             378 => 
             array (
@@ -4183,8 +4183,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khon San',
                 'province_id' => 25,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             379 => 
             array (
@@ -4194,8 +4194,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Amnat Charoen',
                 'province_id' => 26,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             380 => 
             array (
@@ -4205,8 +4205,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chanuman',
                 'province_id' => 26,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             381 => 
             array (
@@ -4216,8 +4216,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pathum Ratchawongsa',
                 'province_id' => 26,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             382 => 
             array (
@@ -4227,8 +4227,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phana',
                 'province_id' => 26,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             383 => 
             array (
@@ -4238,8 +4238,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Senangkhanikhom',
                 'province_id' => 26,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             384 => 
             array (
@@ -4249,8 +4249,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hua Taphan',
                 'province_id' => 26,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             385 => 
             array (
@@ -4260,8 +4260,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lue Amnat',
                 'province_id' => 26,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             386 => 
             array (
@@ -4271,8 +4271,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nong Bua Lam Phu',
                 'province_id' => 27,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             387 => 
             array (
@@ -4282,8 +4282,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Klang',
                 'province_id' => 27,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             388 => 
             array (
@@ -4293,8 +4293,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Sang',
                 'province_id' => 27,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             389 => 
             array (
@@ -4304,8 +4304,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Bun Rueang',
                 'province_id' => 27,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             390 => 
             array (
@@ -4315,8 +4315,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Suwannakhuha',
                 'province_id' => 27,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             391 => 
             array (
@@ -4326,8 +4326,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Wang',
                 'province_id' => 27,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             392 => 
             array (
@@ -4337,8 +4337,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Khon Kaen',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             393 => 
             array (
@@ -4348,8 +4348,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Fang',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             394 => 
             array (
@@ -4359,8 +4359,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phra Yuen',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             395 => 
             array (
@@ -4370,8 +4370,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Ruea',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             396 => 
             array (
@@ -4381,8 +4381,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chum Phae',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             397 => 
             array (
@@ -4392,8 +4392,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Chomphu',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             398 => 
             array (
@@ -4403,8 +4403,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nam Phong',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             399 => 
             array (
@@ -4414,8 +4414,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ubolratana',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             400 => 
             array (
@@ -4425,8 +4425,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kranuan',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             401 => 
             array (
@@ -4436,8 +4436,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Phai',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             402 => 
             array (
@@ -4447,8 +4447,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pueai Noi',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             403 => 
             array (
@@ -4458,8 +4458,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             404 => 
             array (
@@ -4469,8 +4469,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Waeng Yai',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             405 => 
             array (
@@ -4480,8 +4480,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Waeng Noi',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             406 => 
             array (
@@ -4491,8 +4491,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Song Hong',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             407 => 
             array (
@@ -4502,8 +4502,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Wiang',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             408 => 
             array (
@@ -4513,8 +4513,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mancha Khiri',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             409 => 
             array (
@@ -4524,8 +4524,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chonnabot',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             410 => 
             array (
@@ -4535,8 +4535,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Suan Kwang',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             411 => 
             array (
@@ -4546,8 +4546,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Pha Man',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             412 => 
             array (
@@ -4557,8 +4557,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Sung',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             413 => 
             array (
@@ -4568,8 +4568,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khok Pho Chai',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             414 => 
             array (
@@ -4579,8 +4579,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Na Kham',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             415 => 
             array (
@@ -4590,8 +4590,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Haet',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             416 => 
             array (
@@ -4601,8 +4601,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Sila',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             417 => 
             array (
@@ -4612,8 +4612,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Kao',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             418 => 
             array (
@@ -4623,8 +4623,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Pet',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             419 => 
             array (
@@ -4634,8 +4634,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tet Saban Tambon Muang Phon',
                 'province_id' => 28,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             420 => 
             array (
@@ -4645,8 +4645,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Udon Thani',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             421 => 
             array (
@@ -4656,8 +4656,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kut Chap',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             422 => 
             array (
@@ -4667,8 +4667,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Wua So',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             423 => 
             array (
@@ -4678,8 +4678,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kumphawapi',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             424 => 
             array (
@@ -4689,8 +4689,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Sa-at',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             425 => 
             array (
@@ -4700,8 +4700,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Han',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             426 => 
             array (
@@ -4711,8 +4711,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Fon',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             427 => 
             array (
@@ -4722,8 +4722,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chai Wan',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             428 => 
             array (
@@ -4733,8 +4733,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si That',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             429 => 
             array (
@@ -4744,8 +4744,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Sam Mo',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             430 => 
             array (
@@ -4755,8 +4755,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Dung',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             431 => 
             array (
@@ -4766,8 +4766,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Bua Lam Phu',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             432 => 
             array (
@@ -4777,8 +4777,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Bun Rueang',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             433 => 
             array (
@@ -4788,8 +4788,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Klang',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             434 => 
             array (
@@ -4799,8 +4799,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Suwannakhuha',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             435 => 
             array (
@@ -4810,8 +4810,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Non Sang',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             436 => 
             array (
@@ -4821,8 +4821,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Phue',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             437 => 
             array (
@@ -4832,8 +4832,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nam Som',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             438 => 
             array (
@@ -4843,8 +4843,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phen',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             439 => 
             array (
@@ -4854,8 +4854,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sang Khom',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             440 => 
             array (
@@ -4865,8 +4865,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Saeng',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             441 => 
             array (
@@ -4876,8 +4876,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Yung',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             442 => 
             array (
@@ -4887,8 +4887,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phibun Rak',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             443 => 
             array (
@@ -4898,8 +4898,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ku Kaeo',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             444 => 
             array (
@@ -4909,8 +4909,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'rachak-sinlapakhom',
                 'province_id' => 29,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             445 => 
             array (
@@ -4920,8 +4920,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Loei',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             446 => 
             array (
@@ -4931,8 +4931,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Duang',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             447 => 
             array (
@@ -4942,8 +4942,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Khan',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             448 => 
             array (
@@ -4953,8 +4953,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Chom',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             449 => 
             array (
@@ -4964,8 +4964,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Dan Sai',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             450 => 
             array (
@@ -4975,8 +4975,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Haeo',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             451 => 
             array (
@@ -4986,8 +4986,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Ruea',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             452 => 
             array (
@@ -4997,8 +4997,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Li',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             453 => 
             array (
@@ -5008,8 +5008,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Saphung',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             454 => 
             array (
@@ -5019,8 +5019,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Kradueng',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             455 => 
             array (
@@ -5030,8 +5030,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Luang',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             456 => 
             array (
@@ -5041,8 +5041,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pha Khao',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             457 => 
             array (
@@ -5052,8 +5052,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Erawan',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             458 => 
             array (
@@ -5063,8 +5063,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Hin',
                 'province_id' => 30,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             459 => 
             array (
@@ -5074,8 +5074,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nong Khai',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             460 => 
             array (
@@ -5085,8 +5085,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Bo',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             461 => 
             array (
@@ -5096,8 +5096,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Bueng Kan',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             462 => 
             array (
@@ -5107,8 +5107,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon Charoen',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             463 => 
             array (
@@ -5118,8 +5118,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon Phisai',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             464 => 
             array (
@@ -5129,8 +5129,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'So Phisai',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             465 => 
             array (
@@ -5140,8 +5140,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Chiang Mai',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             466 => 
             array (
@@ -5151,8 +5151,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sangkhom',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             467 => 
             array (
@@ -5162,8 +5162,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Seka',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             468 => 
             array (
@@ -5173,8 +5173,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Khat',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             469 => 
             array (
@@ -5184,8 +5184,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bueng Khong Long',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             470 => 
             array (
@@ -5195,8 +5195,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Wilai',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             471 => 
             array (
@@ -5206,8 +5206,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bung Khla',
                 'province_id' => 97,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             472 => 
             array (
@@ -5217,8 +5217,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sakhrai',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             473 => 
             array (
@@ -5228,8 +5228,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Fao Rai',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             474 => 
             array (
@@ -5239,8 +5239,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Rattanawapi',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             475 => 
             array (
@@ -5250,8 +5250,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Tak',
                 'province_id' => 31,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             476 => 
             array (
@@ -5261,8 +5261,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Maha Sarakham',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             477 => 
             array (
@@ -5272,8 +5272,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kae Dam',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             478 => 
             array (
@@ -5283,8 +5283,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kosum Phisai',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             479 => 
             array (
@@ -5294,8 +5294,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kantharawichai',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             480 => 
             array (
@@ -5305,8 +5305,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kantharawichai',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             481 => 
             array (
@@ -5316,8 +5316,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Borabue',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             482 => 
             array (
@@ -5327,8 +5327,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Chueak',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             483 => 
             array (
@@ -5338,8 +5338,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phayakkhaphum Phisai',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             484 => 
             array (
@@ -5349,8 +5349,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wapi Pathum',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             485 => 
             array (
@@ -5360,8 +5360,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Dun',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             486 => 
             array (
@@ -5371,8 +5371,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yang Sisurat',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             487 => 
             array (
@@ -5382,8 +5382,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kut Rang',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             488 => 
             array (
@@ -5393,8 +5393,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chuen Chom',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             489 => 
             array (
@@ -5404,8 +5404,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lub',
                 'province_id' => 32,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             490 => 
             array (
@@ -5415,8 +5415,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Roi Et',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             491 => 
             array (
@@ -5426,8 +5426,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaset Wisai',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             492 => 
             array (
@@ -5437,8 +5437,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pathum Rat',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             493 => 
             array (
@@ -5448,8 +5448,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaturaphak Phiman',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             494 => 
             array (
@@ -5459,8 +5459,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thawat Buri',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             495 => 
             array (
@@ -5470,8 +5470,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phanom Phrai',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             496 => 
             array (
@@ -5481,8 +5481,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon Thong',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             497 => 
             array (
@@ -5492,8 +5492,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Chai',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             498 => 
             array (
@@ -5503,8 +5503,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Phok',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             499 => 
             array (
@@ -5514,8 +5514,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Selaphum',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
         ));
         \DB::table('districts')->insert(array (
@@ -5527,8 +5527,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Suwannaphum',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             1 => 
             array (
@@ -5538,8 +5538,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Suang',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             2 => 
             array (
@@ -5549,8 +5549,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon Sai',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             3 => 
             array (
@@ -5560,8 +5560,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'At Samat',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             4 => 
             array (
@@ -5571,8 +5571,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Moei Wadi',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             5 => 
             array (
@@ -5582,8 +5582,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Somdet',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             6 => 
             array (
@@ -5593,8 +5593,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Changhan',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             7 => 
             array (
@@ -5604,8 +5604,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Khwan',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             8 => 
             array (
@@ -5615,8 +5615,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Hi',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             9 => 
             array (
@@ -5626,8 +5626,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Khao Luangกิ่',
                 'province_id' => 33,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             10 => 
             array (
@@ -5637,8 +5637,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Kalasin',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             11 => 
             array (
@@ -5648,8 +5648,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Mon',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             12 => 
             array (
@@ -5659,8 +5659,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kamalasai',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             13 => 
             array (
@@ -5670,8 +5670,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Rong Kham',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             14 => 
             array (
@@ -5681,8 +5681,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kuchinarai',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             15 => 
             array (
@@ -5692,8 +5692,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Wong',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             16 => 
             array (
@@ -5703,8 +5703,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yang Talat',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             17 => 
             array (
@@ -5714,8 +5714,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Mek',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             18 => 
             array (
@@ -5725,8 +5725,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sahatsakhan',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             19 => 
             array (
@@ -5736,8 +5736,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kham Muang',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             20 => 
             array (
@@ -5747,8 +5747,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Khantho',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             21 => 
             array (
@@ -5758,8 +5758,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Kung Si',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             22 => 
             array (
@@ -5769,8 +5769,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Somdet',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             23 => 
             array (
@@ -5780,8 +5780,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Phueng',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             24 => 
             array (
@@ -5791,8 +5791,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Chai',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             25 => 
             array (
@@ -5802,8 +5802,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Khu',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             26 => 
             array (
@@ -5813,8 +5813,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Don Chan',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             27 => 
             array (
@@ -5824,8 +5824,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khong Chai',
                 'province_id' => 34,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             28 => 
             array (
@@ -5835,8 +5835,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Sakon Nakhon',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             29 => 
             array (
@@ -5846,8 +5846,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kusuman',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             30 => 
             array (
@@ -5857,8 +5857,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kut Bak',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             31 => 
             array (
@@ -5868,8 +5868,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phanna Nikhom',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             32 => 
             array (
@@ -5879,8 +5879,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phang Khon',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             33 => 
             array (
@@ -5890,8 +5890,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Waritchaphum',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             34 => 
             array (
@@ -5901,8 +5901,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nikhom Nam Un',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             35 => 
             array (
@@ -5912,8 +5912,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wanon Niwat',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             36 => 
             array (
@@ -5923,8 +5923,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kham Ta Kla',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             37 => 
             array (
@@ -5934,8 +5934,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Muang',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             38 => 
             array (
@@ -5945,8 +5945,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Akat Amnuai',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             39 => 
             array (
@@ -5956,8 +5956,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sawang Daen Din',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             40 => 
             array (
@@ -5967,8 +5967,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Song Dao',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             41 => 
             array (
@@ -5978,8 +5978,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tao Ngoi',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             42 => 
             array (
@@ -5989,8 +5989,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khok Si Suphan',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             43 => 
             array (
@@ -6000,8 +6000,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Charoen Sin',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             44 => 
             array (
@@ -6011,8 +6011,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon Na Kaeo',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             45 => 
             array (
@@ -6022,8 +6022,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Phan',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             46 => 
             array (
@@ -6033,8 +6033,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wanon Niwat',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             47 => 
             array (
@@ -6044,8 +6044,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Banhan',
                 'province_id' => 35,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             48 => 
             array (
@@ -6055,8 +6055,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nakhon Phanom',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             49 => 
             array (
@@ -6066,8 +6066,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pla Pak',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             50 => 
             array (
@@ -6077,8 +6077,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Uthen',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             51 => 
             array (
@@ -6088,8 +6088,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Phaeng',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             52 => 
             array (
@@ -6099,8 +6099,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'That Phanom',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             53 => 
             array (
@@ -6110,8 +6110,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Renu Nakhon',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             54 => 
             array (
@@ -6121,8 +6121,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Kae',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             55 => 
             array (
@@ -6132,8 +6132,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Songkhram',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             56 => 
             array (
@@ -6143,8 +6143,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Wa',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             57 => 
             array (
@@ -6154,8 +6154,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon Sawan',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             58 => 
             array (
@@ -6165,8 +6165,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Thom',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             59 => 
             array (
@@ -6176,8 +6176,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Yang',
                 'province_id' => 36,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             60 => 
             array (
@@ -6187,8 +6187,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Mukdahan',
                 'province_id' => 37,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             61 => 
             array (
@@ -6198,8 +6198,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nikhom Kham Soi',
                 'province_id' => 37,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             62 => 
             array (
@@ -6209,8 +6209,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Don Tan',
                 'province_id' => 37,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             63 => 
             array (
@@ -6220,8 +6220,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Dong Luang',
                 'province_id' => 37,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             64 => 
             array (
@@ -6231,8 +6231,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khamcha-i',
                 'province_id' => 37,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             65 => 
             array (
@@ -6242,8 +6242,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wan Yai',
                 'province_id' => 37,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             66 => 
             array (
@@ -6253,8 +6253,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Sung',
                 'province_id' => 37,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             67 => 
             array (
@@ -6264,8 +6264,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chiang Mai',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             68 => 
             array (
@@ -6275,8 +6275,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chom Thong',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             69 => 
             array (
@@ -6286,8 +6286,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Chaem',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             70 => 
             array (
@@ -6297,8 +6297,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Dao',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             71 => 
             array (
@@ -6308,8 +6308,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Doi Saket',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             72 => 
             array (
@@ -6319,8 +6319,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Taeng',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             73 => 
             array (
@@ -6330,8 +6330,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Rim',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             74 => 
             array (
@@ -6341,8 +6341,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Samoeng',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             75 => 
             array (
@@ -6352,8 +6352,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Fang',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             76 => 
             array (
@@ -6363,8 +6363,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Ai',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             77 => 
             array (
@@ -6374,8 +6374,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phrao',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             78 => 
             array (
@@ -6385,8 +6385,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'San Pa Tong',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             79 => 
             array (
@@ -6396,8 +6396,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'San Kamphaeng',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             80 => 
             array (
@@ -6407,8 +6407,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'San Sai',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             81 => 
             array (
@@ -6418,8 +6418,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hang Dong',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             82 => 
             array (
@@ -6429,8 +6429,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hot',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             83 => 
             array (
@@ -6440,8 +6440,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Doi Tao',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             84 => 
             array (
@@ -6451,8 +6451,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Omkoi',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             85 => 
             array (
@@ -6462,8 +6462,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Saraphi',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             86 => 
             array (
@@ -6473,8 +6473,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Haeng',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             87 => 
             array (
@@ -6484,8 +6484,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chai Prakan',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             88 => 
             array (
@@ -6495,8 +6495,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Wang',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             89 => 
             array (
@@ -6506,8 +6506,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae On',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             90 => 
             array (
@@ -6517,8 +6517,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Doi Lo',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             91 => 
             array (
@@ -6528,8 +6528,8 @@ class DistrictsTableSeeder extends Seeder
             'district_name_en' => 'Tet Saban Nakorn Chiangmai(Kan lawi la)',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             92 => 
             array (
@@ -6539,8 +6539,8 @@ class DistrictsTableSeeder extends Seeder
             'district_name_en' => 'Tet Saban Nakorn Chiangmai(Sri Wi)',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             93 => 
             array (
@@ -6550,8 +6550,8 @@ class DistrictsTableSeeder extends Seeder
             'district_name_en' => 'Tet Saban Nakorn Chiangmai(Meng Rai)',
                 'province_id' => 38,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             94 => 
             array (
@@ -6561,8 +6561,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Lamphun',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             95 => 
             array (
@@ -6572,8 +6572,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Tha',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             96 => 
             array (
@@ -6583,8 +6583,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Hong',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             97 => 
             array (
@@ -6594,8 +6594,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Li',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             98 => 
             array (
@@ -6605,8 +6605,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Hua Chang',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             99 => 
             array (
@@ -6616,8 +6616,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pa Sang',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             100 => 
             array (
@@ -6627,8 +6627,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Thi',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             101 => 
             array (
@@ -6638,8 +6638,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Nong Long',
                 'province_id' => 39,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             102 => 
             array (
@@ -6649,8 +6649,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Lampang',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             103 => 
             array (
@@ -6660,8 +6660,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Mo',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             104 => 
             array (
@@ -6671,8 +6671,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Kha',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             105 => 
             array (
@@ -6682,8 +6682,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Soem Ngam',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             106 => 
             array (
@@ -6693,8 +6693,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ngao',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             107 => 
             array (
@@ -6704,8 +6704,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chae Hom',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             108 => 
             array (
@@ -6715,8 +6715,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Nuea',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             109 => 
             array (
@@ -6726,8 +6726,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thoen',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             110 => 
             array (
@@ -6737,8 +6737,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Phrik',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             111 => 
             array (
@@ -6748,8 +6748,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Tha',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             112 => 
             array (
@@ -6759,8 +6759,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sop Prap',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             113 => 
             array (
@@ -6770,8 +6770,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hang Chat',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             114 => 
             array (
@@ -6781,8 +6781,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Pan',
                 'province_id' => 40,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             115 => 
             array (
@@ -6792,8 +6792,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Uttaradit',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             116 => 
             array (
@@ -6803,8 +6803,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tron',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             117 => 
             array (
@@ -6814,8 +6814,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Pla',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             118 => 
             array (
@@ -6825,8 +6825,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nam Pat',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             119 => 
             array (
@@ -6836,8 +6836,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Fak Tha',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             120 => 
             array (
@@ -6847,8 +6847,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Khok',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             121 => 
             array (
@@ -6858,8 +6858,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phichai',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             122 => 
             array (
@@ -6869,8 +6869,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Laplae',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             123 => 
             array (
@@ -6880,8 +6880,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thong Saen Khan',
                 'province_id' => 41,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             124 => 
             array (
@@ -6891,8 +6891,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phrae',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             125 => 
             array (
@@ -6902,8 +6902,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Rong Kwang',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             126 => 
             array (
@@ -6913,8 +6913,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Long',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             127 => 
             array (
@@ -6924,8 +6924,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sung Men',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             128 => 
             array (
@@ -6935,8 +6935,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Den Chai',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             129 => 
             array (
@@ -6946,8 +6946,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Song',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             130 => 
             array (
@@ -6957,8 +6957,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Chin',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             131 => 
             array (
@@ -6968,8 +6968,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Muang Khai',
                 'province_id' => 42,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             132 => 
             array (
@@ -6979,8 +6979,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nan',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             133 => 
             array (
@@ -6990,8 +6990,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Charim',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             134 => 
             array (
@@ -7001,8 +7001,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Luang',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             135 => 
             array (
@@ -7012,8 +7012,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Noi',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             136 => 
             array (
@@ -7023,8 +7023,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pua',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             137 => 
             array (
@@ -7034,8 +7034,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Wang Pha',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             138 => 
             array (
@@ -7045,8 +7045,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Sa',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             139 => 
             array (
@@ -7056,8 +7056,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Chang',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             140 => 
             array (
@@ -7067,8 +7067,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Klang',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             141 => 
             array (
@@ -7078,8 +7078,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Muen',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             142 => 
             array (
@@ -7089,8 +7089,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Santi Suk',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             143 => 
             array (
@@ -7100,8 +7100,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bo Kluea',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             144 => 
             array (
@@ -7111,8 +7111,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Song Khwae',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             145 => 
             array (
@@ -7122,8 +7122,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Phiang',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             146 => 
             array (
@@ -7133,8 +7133,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaloem Phra Kiat',
                 'province_id' => 43,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             147 => 
             array (
@@ -7144,8 +7144,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phayao',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             148 => 
             array (
@@ -7155,8 +7155,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chun',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             149 => 
             array (
@@ -7166,8 +7166,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Kham',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             150 => 
             array (
@@ -7177,8 +7177,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Muan',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             151 => 
             array (
@@ -7188,8 +7188,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Dok Khamtai',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             152 => 
             array (
@@ -7199,8 +7199,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pong',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             153 => 
             array (
@@ -7210,8 +7210,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Chai',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             154 => 
             array (
@@ -7221,8 +7221,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Sang',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             155 => 
             array (
@@ -7232,8 +7232,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phu Kamyao',
                 'province_id' => 44,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             156 => 
             array (
@@ -7243,8 +7243,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chiang Rai',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             157 => 
             array (
@@ -7254,8 +7254,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Chai',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             158 => 
             array (
@@ -7265,8 +7265,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Khong',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             159 => 
             array (
@@ -7276,8 +7276,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thoeng',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             160 => 
             array (
@@ -7287,8 +7287,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phan',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             161 => 
             array (
@@ -7298,8 +7298,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pa Daet',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             162 => 
             array (
@@ -7309,8 +7309,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Chan',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             163 => 
             array (
@@ -7320,8 +7320,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chiang Saen',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             164 => 
             array (
@@ -7331,8 +7331,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Sai',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             165 => 
             array (
@@ -7342,8 +7342,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Suai',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             166 => 
             array (
@@ -7353,8 +7353,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Pa Pao',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             167 => 
             array (
@@ -7364,8 +7364,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phaya Mengrai',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             168 => 
             array (
@@ -7375,8 +7375,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Kaen',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             169 => 
             array (
@@ -7386,8 +7386,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khun Tan',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             170 => 
             array (
@@ -7397,8 +7397,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Fa Luang',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             171 => 
             array (
@@ -7408,8 +7408,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Lao',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             172 => 
             array (
@@ -7419,8 +7419,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Chiang Rung',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             173 => 
             array (
@@ -7430,8 +7430,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Doi Luang',
                 'province_id' => 45,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             174 => 
             array (
@@ -7441,8 +7441,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Mae Hong Son',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             175 => 
             array (
@@ -7452,8 +7452,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khun Yuam',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             176 => 
             array (
@@ -7463,8 +7463,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pai',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             177 => 
             array (
@@ -7474,8 +7474,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Sariang',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             178 => 
             array (
@@ -7485,8 +7485,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae La Noi',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             179 => 
             array (
@@ -7496,8 +7496,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sop Moei',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             180 => 
             array (
@@ -7507,8 +7507,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pang Mapha',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             181 => 
             array (
@@ -7518,8 +7518,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Muen Tor',
                 'province_id' => 46,
                 'geo_id' => 1,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             182 => 
             array (
@@ -7529,8 +7529,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nakhon Sawan',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             183 => 
             array (
@@ -7540,8 +7540,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Krok Phra',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             184 => 
             array (
@@ -7551,8 +7551,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chum Saeng',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             185 => 
             array (
@@ -7562,8 +7562,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Bua',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             186 => 
             array (
@@ -7573,8 +7573,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Banphot Phisai',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             187 => 
             array (
@@ -7584,8 +7584,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kao Liao',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             188 => 
             array (
@@ -7595,8 +7595,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Takhli',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             189 => 
             array (
@@ -7606,8 +7606,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Takhli',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             190 => 
             array (
@@ -7617,8 +7617,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phaisali',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             191 => 
             array (
@@ -7628,8 +7628,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phayuha Khiri',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             192 => 
             array (
@@ -7639,8 +7639,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phayuha Khiri',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             193 => 
             array (
@@ -7650,8 +7650,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tak Fa',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             194 => 
             array (
@@ -7661,8 +7661,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Wong',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             195 => 
             array (
@@ -7672,8 +7672,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Poen',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             196 => 
             array (
@@ -7683,8 +7683,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chum Ta Bong',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             197 => 
             array (
@@ -7694,8 +7694,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huen Nam Hom',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             198 => 
             array (
@@ -7705,8 +7705,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chum Ta Bong',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             199 => 
             array (
@@ -7716,8 +7716,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mea Ley',
                 'province_id' => 47,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             200 => 
             array (
@@ -7727,8 +7727,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Uthai Thani',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             201 => 
             array (
@@ -7738,8 +7738,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thap Than',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             202 => 
             array (
@@ -7749,8 +7749,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sawang Arom',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             203 => 
             array (
@@ -7760,8 +7760,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Chang',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             204 => 
             array (
@@ -7771,8 +7771,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Khayang',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             205 => 
             array (
@@ -7782,8 +7782,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Rai',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             206 => 
             array (
@@ -7793,8 +7793,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lan Sak',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             207 => 
             array (
@@ -7804,8 +7804,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Khot',
                 'province_id' => 48,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             208 => 
             array (
@@ -7815,8 +7815,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Kamphaeng Phet',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             209 => 
             array (
@@ -7826,8 +7826,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sai Ngam',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             210 => 
             array (
@@ -7837,8 +7837,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Lan',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             211 => 
             array (
@@ -7848,8 +7848,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khanu Woralaksaburi',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             212 => 
             array (
@@ -7859,8 +7859,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Khlung',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             213 => 
             array (
@@ -7870,8 +7870,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phran Kratai',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             214 => 
             array (
@@ -7881,8 +7881,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lan Krabue',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             215 => 
             array (
@@ -7892,8 +7892,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sai Thong Watthana',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             216 => 
             array (
@@ -7903,8 +7903,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pang Sila Thong',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             217 => 
             array (
@@ -7914,8 +7914,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bueng Samakkhi',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             218 => 
             array (
@@ -7925,8 +7925,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kosamphi Nakhon',
                 'province_id' => 49,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             219 => 
             array (
@@ -7936,8 +7936,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Tak',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             220 => 
             array (
@@ -7947,8 +7947,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Tak',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             221 => 
             array (
@@ -7958,8 +7958,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Ngao',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             222 => 
             array (
@@ -7969,8 +7969,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Ramat',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             223 => 
             array (
@@ -7980,8 +7980,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Song Yang',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             224 => 
             array (
@@ -7991,8 +7991,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Sot',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             225 => 
             array (
@@ -8002,8 +8002,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phop Phra',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             226 => 
             array (
@@ -8013,8 +8013,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Umphang',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             227 => 
             array (
@@ -8024,8 +8024,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Chao',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             228 => 
             array (
@@ -8035,8 +8035,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'King Ta Pui',
                 'province_id' => 50,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             229 => 
             array (
@@ -8046,8 +8046,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Sukhothai',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             230 => 
             array (
@@ -8057,8 +8057,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Dan Lan Hoi',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             231 => 
             array (
@@ -8068,8 +8068,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khiri Mat',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             232 => 
             array (
@@ -8079,8 +8079,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kong Krailat',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             233 => 
             array (
@@ -8090,8 +8090,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Satchanalai',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             234 => 
             array (
@@ -8101,8 +8101,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Samrong',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             235 => 
             array (
@@ -8112,8 +8112,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sawankhalok',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             236 => 
             array (
@@ -8123,8 +8123,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Nakhon',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             237 => 
             array (
@@ -8134,8 +8134,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Saliam',
                 'province_id' => 51,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             238 => 
             array (
@@ -8145,8 +8145,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phitsanulok',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             239 => 
             array (
@@ -8156,8 +8156,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nakhon Thai',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             240 => 
             array (
@@ -8167,8 +8167,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chat Trakan',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             241 => 
             array (
@@ -8178,8 +8178,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Rakam',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             242 => 
             array (
@@ -8189,8 +8189,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Krathum',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             243 => 
             array (
@@ -8200,8 +8200,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phrom Phiram',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             244 => 
             array (
@@ -8211,8 +8211,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wat Bot',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             245 => 
             array (
@@ -8222,8 +8222,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Thong',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             246 => 
             array (
@@ -8233,8 +8233,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Noen Maprang',
                 'province_id' => 52,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             247 => 
             array (
@@ -8244,8 +8244,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phichit',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             248 => 
             array (
@@ -8255,8 +8255,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Sai Phun',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             249 => 
             array (
@@ -8266,8 +8266,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Prathap Chang',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             250 => 
             array (
@@ -8277,8 +8277,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Taphan Hin',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             251 => 
             array (
@@ -8288,8 +8288,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Mun Nak',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             252 => 
             array (
@@ -8299,8 +8299,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pho Thale',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             253 => 
             array (
@@ -8310,8 +8310,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Ngam',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             254 => 
             array (
@@ -8321,8 +8321,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tap Khlo',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             255 => 
             array (
@@ -8332,8 +8332,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sak Lek',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             256 => 
             array (
@@ -8343,8 +8343,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bueng Na Rang',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             257 => 
             array (
@@ -8354,8 +8354,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Dong Charoen',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             258 => 
             array (
@@ -8365,8 +8365,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wachirabarami',
                 'province_id' => 53,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             259 => 
             array (
@@ -8376,8 +8376,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phetchabun',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             260 => 
             array (
@@ -8387,8 +8387,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chon Daen',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             261 => 
             array (
@@ -8398,8 +8398,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lom Sak',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             262 => 
             array (
@@ -8409,8 +8409,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lom Kao',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             263 => 
             array (
@@ -8420,8 +8420,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wichian Buri',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             264 => 
             array (
@@ -8431,8 +8431,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Thep',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             265 => 
             array (
@@ -8442,8 +8442,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Phai',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             266 => 
             array (
@@ -8453,8 +8453,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bueng Sam Phan',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             267 => 
             array (
@@ -8464,8 +8464,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nam Nao',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             268 => 
             array (
@@ -8475,8 +8475,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Pong',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             269 => 
             array (
@@ -8486,8 +8486,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Kho',
                 'province_id' => 54,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             270 => 
             array (
@@ -8497,8 +8497,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Ratchaburi',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             271 => 
             array (
@@ -8508,8 +8508,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chom Bueng',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             272 => 
             array (
@@ -8519,8 +8519,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Suan Phueng',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             273 => 
             array (
@@ -8530,8 +8530,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Damnoen Saduak',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             274 => 
             array (
@@ -8541,8 +8541,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Pong',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             275 => 
             array (
@@ -8552,8 +8552,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Phae',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             276 => 
             array (
@@ -8563,8 +8563,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Photharam',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             277 => 
             array (
@@ -8574,8 +8574,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Tho',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             278 => 
             array (
@@ -8585,8 +8585,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wat Phleng',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             279 => 
             array (
@@ -8596,8 +8596,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Kha',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             280 => 
             array (
@@ -8607,8 +8607,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tet Saban Ban Kong',
                 'province_id' => 55,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             281 => 
             array (
@@ -8618,8 +8618,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Kanchanaburi',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             282 => 
             array (
@@ -8629,8 +8629,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sai Yok',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             283 => 
             array (
@@ -8640,8 +8640,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bo Phloi',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             284 => 
             array (
@@ -8651,8 +8651,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Sawat',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             285 => 
             array (
@@ -8662,8 +8662,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Maka',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             286 => 
             array (
@@ -8673,8 +8673,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Muang',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             287 => 
             array (
@@ -8684,8 +8684,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pha Phum',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             288 => 
             array (
@@ -8695,8 +8695,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sangkhla Buri',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             289 => 
             array (
@@ -8706,8 +8706,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phanom Thuan',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             290 => 
             array (
@@ -8717,8 +8717,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lao Khwan',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             291 => 
             array (
@@ -8728,8 +8728,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Dan Makham Tia',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             292 => 
             array (
@@ -8739,8 +8739,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Prue',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             293 => 
             array (
@@ -8750,8 +8750,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Krachao',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             294 => 
             array (
@@ -8761,8 +8761,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Kra Dan',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             295 => 
             array (
@@ -8772,8 +8772,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Tuan',
                 'province_id' => 56,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             296 => 
             array (
@@ -8783,8 +8783,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Suphan Buri',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             297 => 
             array (
@@ -8794,8 +8794,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Doem Bang Nang Buat',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             298 => 
             array (
@@ -8805,8 +8805,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Dan Chang',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             299 => 
             array (
@@ -8816,8 +8816,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Pla Ma',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             300 => 
             array (
@@ -8827,8 +8827,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Prachan',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             301 => 
             array (
@@ -8838,8 +8838,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Don Chedi',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             302 => 
             array (
@@ -8849,8 +8849,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Song Phi Nong',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             303 => 
             array (
@@ -8860,8 +8860,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Chuk',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             304 => 
             array (
@@ -8871,8 +8871,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'U Thong',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             305 => 
             array (
@@ -8882,8 +8882,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Ya Sai',
                 'province_id' => 57,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             306 => 
             array (
@@ -8893,8 +8893,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nakhon Pathom',
                 'province_id' => 58,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             307 => 
             array (
@@ -8904,8 +8904,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kamphaeng Saen',
                 'province_id' => 58,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             308 => 
             array (
@@ -8915,8 +8915,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nakhon Chai Si',
                 'province_id' => 58,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             309 => 
             array (
@@ -8926,8 +8926,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Don Tum',
                 'province_id' => 58,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             310 => 
             array (
@@ -8937,8 +8937,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Len',
                 'province_id' => 58,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             311 => 
             array (
@@ -8948,8 +8948,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Phran',
                 'province_id' => 58,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             312 => 
             array (
@@ -8959,8 +8959,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phutthamonthon',
                 'province_id' => 58,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             313 => 
             array (
@@ -8970,8 +8970,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Samut Sakhon',
                 'province_id' => 59,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             314 => 
             array (
@@ -8981,8 +8981,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Krathum Baen',
                 'province_id' => 59,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             315 => 
             array (
@@ -8992,8 +8992,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Phaeo',
                 'province_id' => 59,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             316 => 
             array (
@@ -9003,8 +9003,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Samut Songkhram',
                 'province_id' => 60,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             317 => 
             array (
@@ -9014,8 +9014,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Khonthi',
                 'province_id' => 60,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             318 => 
             array (
@@ -9025,8 +9025,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Amphawa',
                 'province_id' => 60,
                 'geo_id' => 2,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             319 => 
             array (
@@ -9036,8 +9036,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phetchaburi',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             320 => 
             array (
@@ -9047,8 +9047,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Yoi',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             321 => 
             array (
@@ -9058,8 +9058,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Ya Plong',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             322 => 
             array (
@@ -9069,8 +9069,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Cha-am',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             323 => 
             array (
@@ -9080,8 +9080,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Yang',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             324 => 
             array (
@@ -9091,8 +9091,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Lat',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             325 => 
             array (
@@ -9102,8 +9102,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Laem',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             326 => 
             array (
@@ -9113,8 +9113,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kaeng Krachan',
                 'province_id' => 61,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             327 => 
             array (
@@ -9124,8 +9124,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Prachuap Khiri Khan',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             328 => 
             array (
@@ -9135,8 +9135,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kui Buri',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             329 => 
             array (
@@ -9146,8 +9146,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thap Sakae',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             330 => 
             array (
@@ -9157,8 +9157,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Saphan',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             331 => 
             array (
@@ -9168,8 +9168,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Saphan Noi',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             332 => 
             array (
@@ -9179,8 +9179,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pran Buri',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             333 => 
             array (
@@ -9190,8 +9190,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hua Hin',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             334 => 
             array (
@@ -9201,8 +9201,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sam Roi Yot',
                 'province_id' => 62,
                 'geo_id' => 4,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             335 => 
             array (
@@ -9212,8 +9212,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Nakhon Si Thammarat',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             336 => 
             array (
@@ -9223,8 +9223,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phrom Khiri',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             337 => 
             array (
@@ -9234,8 +9234,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lan Saka',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             338 => 
             array (
@@ -9245,8 +9245,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chawang',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             339 => 
             array (
@@ -9256,8 +9256,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phipun',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             340 => 
             array (
@@ -9267,8 +9267,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chian Yai',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             341 => 
             array (
@@ -9278,8 +9278,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Cha-uat',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             342 => 
             array (
@@ -9289,8 +9289,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Sala',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             343 => 
             array (
@@ -9300,8 +9300,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Song',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             344 => 
             array (
@@ -9311,8 +9311,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Bon',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             345 => 
             array (
@@ -9322,8 +9322,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Yai',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             346 => 
             array (
@@ -9333,8 +9333,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Phanang',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             347 => 
             array (
@@ -9344,8 +9344,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ron Phibun',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             348 => 
             array (
@@ -9355,8 +9355,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sichon',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             349 => 
             array (
@@ -9366,8 +9366,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khanom',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             350 => 
             array (
@@ -9377,8 +9377,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hua Sai',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             351 => 
             array (
@@ -9388,8 +9388,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Khan',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             352 => 
             array (
@@ -9399,8 +9399,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tham Phannara',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             353 => 
             array (
@@ -9410,8 +9410,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chulabhorn',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             354 => 
             array (
@@ -9421,8 +9421,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phra Phrom',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             355 => 
             array (
@@ -9432,8 +9432,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nopphitam',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             356 => 
             array (
@@ -9443,8 +9443,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chang Klang',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             357 => 
             array (
@@ -9454,8 +9454,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaloem Phra Kiat',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             358 => 
             array (
@@ -9465,8 +9465,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chian Yai',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             359 => 
             array (
@@ -9476,8 +9476,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Suan Luang',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             360 => 
             array (
@@ -9487,8 +9487,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ron Phibun',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             361 => 
             array (
@@ -9498,8 +9498,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hua Sai',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             362 => 
             array (
@@ -9509,8 +9509,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Song',
                 'province_id' => 63,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             363 => 
             array (
@@ -9520,8 +9520,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Krabi',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             364 => 
             array (
@@ -9531,8 +9531,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Phanom',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             365 => 
             array (
@@ -9542,8 +9542,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Lanta',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             366 => 
             array (
@@ -9553,8 +9553,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Thom',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             367 => 
             array (
@@ -9564,8 +9564,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ao Luek',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             368 => 
             array (
@@ -9575,8 +9575,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Plai Phraya',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             369 => 
             array (
@@ -9586,8 +9586,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lam Thap',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             370 => 
             array (
@@ -9597,8 +9597,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nuea Khlong',
                 'province_id' => 64,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             371 => 
             array (
@@ -9608,8 +9608,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phang-nga',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             372 => 
             array (
@@ -9619,8 +9619,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Yao',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             373 => 
             array (
@@ -9630,8 +9630,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kapong',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             374 => 
             array (
@@ -9641,8 +9641,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Takua Thung',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             375 => 
             array (
@@ -9652,8 +9652,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Takua Pa',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             376 => 
             array (
@@ -9663,8 +9663,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khura Buri',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             377 => 
             array (
@@ -9674,8 +9674,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thap Put',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             378 => 
             array (
@@ -9685,8 +9685,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thai Mueang',
                 'province_id' => 65,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             379 => 
             array (
@@ -9696,8 +9696,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phuket',
                 'province_id' => 66,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             380 => 
             array (
@@ -9707,8 +9707,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kathu',
                 'province_id' => 66,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             381 => 
             array (
@@ -9718,8 +9718,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thalang',
                 'province_id' => 66,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             382 => 
             array (
@@ -9729,8 +9729,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tung Ka',
                 'province_id' => 66,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             383 => 
             array (
@@ -9740,8 +9740,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Surat Thani',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             384 => 
             array (
@@ -9751,8 +9751,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kanchanadit',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             385 => 
             array (
@@ -9762,8 +9762,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Don Sak',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             386 => 
             array (
@@ -9773,8 +9773,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Samui',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             387 => 
             array (
@@ -9784,8 +9784,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Pha-ngan',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             388 => 
             array (
@@ -9795,8 +9795,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chaiya',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             389 => 
             array (
@@ -9806,8 +9806,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Chana',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             390 => 
             array (
@@ -9817,8 +9817,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khiri Rat Nikhom',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             391 => 
             array (
@@ -9828,8 +9828,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Ta Khun',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             392 => 
             array (
@@ -9839,8 +9839,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phanom',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             393 => 
             array (
@@ -9850,8 +9850,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Chang',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             394 => 
             array (
@@ -9861,8 +9861,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Na San',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             395 => 
             array (
@@ -9872,8 +9872,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Na Doem',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             396 => 
             array (
@@ -9883,8 +9883,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khian Sa',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             397 => 
             array (
@@ -9894,8 +9894,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wiang Sa',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             398 => 
             array (
@@ -9905,8 +9905,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phrasaeng',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             399 => 
             array (
@@ -9916,8 +9916,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phunphin',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             400 => 
             array (
@@ -9927,8 +9927,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chai Buri',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             401 => 
             array (
@@ -9938,8 +9938,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Vibhavadi',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             402 => 
             array (
@@ -9949,8 +9949,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ko Pha-ngan',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             403 => 
             array (
@@ -9960,8 +9960,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Don',
                 'province_id' => 67,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             404 => 
             array (
@@ -9971,8 +9971,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Ranong',
                 'province_id' => 68,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             405 => 
             array (
@@ -9982,8 +9982,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'La-un',
                 'province_id' => 68,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             406 => 
             array (
@@ -9993,8 +9993,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kapoe',
                 'province_id' => 68,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             407 => 
             array (
@@ -10004,8 +10004,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kra Buri',
                 'province_id' => 68,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             408 => 
             array (
@@ -10015,8 +10015,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Suk Samran',
                 'province_id' => 68,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             409 => 
             array (
@@ -10026,8 +10026,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Chumphon',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             410 => 
             array (
@@ -10037,8 +10037,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Sae',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             411 => 
             array (
@@ -10048,8 +10048,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pathio',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             412 => 
             array (
@@ -10059,8 +10059,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lang Suan',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             413 => 
             array (
@@ -10070,8 +10070,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Lamae',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             414 => 
             array (
@@ -10081,8 +10081,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phato',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             415 => 
             array (
@@ -10092,8 +10092,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sawi',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             416 => 
             array (
@@ -10103,8 +10103,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Tako',
                 'province_id' => 69,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             417 => 
             array (
@@ -10114,8 +10114,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Songkhla',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             418 => 
             array (
@@ -10125,8 +10125,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sathing Phra',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             419 => 
             array (
@@ -10136,8 +10136,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chana',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             420 => 
             array (
@@ -10147,8 +10147,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Thawi',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             421 => 
             array (
@@ -10158,8 +10158,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thepha',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             422 => 
             array (
@@ -10169,8 +10169,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Saba Yoi',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             423 => 
             array (
@@ -10180,8 +10180,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ranot',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             424 => 
             array (
@@ -10191,8 +10191,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Krasae Sin',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             425 => 
             array (
@@ -10202,8 +10202,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Rattaphum',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             426 => 
             array (
@@ -10213,8 +10213,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sadao',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             427 => 
             array (
@@ -10224,8 +10224,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hat Yai',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             428 => 
             array (
@@ -10235,8 +10235,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Mom',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             429 => 
             array (
@@ -10246,8 +10246,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khuan Niang',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             430 => 
             array (
@@ -10257,8 +10257,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Klam',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             431 => 
             array (
@@ -10268,8 +10268,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Singhanakhon',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             432 => 
             array (
@@ -10279,8 +10279,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khlong Hoi Khong',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             433 => 
             array (
@@ -10290,8 +10290,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sum Nung Kam',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             434 => 
             array (
@@ -10301,8 +10301,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ban Pru',
                 'province_id' => 70,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             435 => 
             array (
@@ -10312,8 +10312,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Satun',
                 'province_id' => 71,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             436 => 
             array (
@@ -10323,8 +10323,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khuan Don',
                 'province_id' => 71,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             437 => 
             array (
@@ -10334,8 +10334,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khuan Kalong',
                 'province_id' => 71,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             438 => 
             array (
@@ -10345,8 +10345,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tha Phae',
                 'province_id' => 71,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             439 => 
             array (
@@ -10356,8 +10356,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'La-ngu',
                 'province_id' => 71,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             440 => 
             array (
@@ -10367,8 +10367,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Wa',
                 'province_id' => 71,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             441 => 
             array (
@@ -10378,8 +10378,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Manang',
                 'province_id' => 71,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             442 => 
             array (
@@ -10389,8 +10389,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Trang',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             443 => 
             array (
@@ -10400,8 +10400,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kantang',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             444 => 
             array (
@@ -10411,8 +10411,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yan Ta Khao',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             445 => 
             array (
@@ -10422,8 +10422,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Palian',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             446 => 
             array (
@@ -10433,8 +10433,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sikao',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             447 => 
             array (
@@ -10444,8 +10444,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Huai Yot',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             448 => 
             array (
@@ -10455,8 +10455,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Wang Wiset',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             449 => 
             array (
@@ -10466,8 +10466,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Na Yong',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             450 => 
             array (
@@ -10477,8 +10477,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ratsada',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             451 => 
             array (
@@ -10488,8 +10488,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Hat Samran',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             452 => 
             array (
@@ -10499,8 +10499,8 @@ class DistrictsTableSeeder extends Seeder
             'district_name_en' => 'Mueang Trang(Krong Teng)',
                 'province_id' => 72,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             453 => 
             array (
@@ -10510,8 +10510,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Phatthalung',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             454 => 
             array (
@@ -10521,8 +10521,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kong Ra',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             455 => 
             array (
@@ -10532,8 +10532,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khao Chaison',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             456 => 
             array (
@@ -10543,8 +10543,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tamot',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             457 => 
             array (
@@ -10554,8 +10554,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khuan Khanun',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             458 => 
             array (
@@ -10565,8 +10565,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Phayun',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             459 => 
             array (
@@ -10576,8 +10576,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Banphot',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             460 => 
             array (
@@ -10587,8 +10587,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pa Bon',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             461 => 
             array (
@@ -10598,8 +10598,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Kaeo',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             462 => 
             array (
@@ -10609,8 +10609,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pa Phayom',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             463 => 
             array (
@@ -10620,8 +10620,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Srinagarindra',
                 'province_id' => 73,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             464 => 
             array (
@@ -10631,8 +10631,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Pattani',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             465 => 
             array (
@@ -10642,8 +10642,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Khok Pho',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             466 => 
             array (
@@ -10653,8 +10653,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Nong Chik',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             467 => 
             array (
@@ -10664,8 +10664,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Panare',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             468 => 
             array (
@@ -10675,8 +10675,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mayo',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             469 => 
             array (
@@ -10686,8 +10686,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Thung Yang Daeng',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             470 => 
             array (
@@ -10697,8 +10697,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sai Buri',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             471 => 
             array (
@@ -10708,8 +10708,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mai Kaen',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             472 => 
             array (
@@ -10719,8 +10719,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yaring',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             473 => 
             array (
@@ -10730,8 +10730,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yarang',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             474 => 
             array (
@@ -10741,8 +10741,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kapho',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             475 => 
             array (
@@ -10752,8 +10752,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mae Lan',
                 'province_id' => 74,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             476 => 
             array (
@@ -10763,8 +10763,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Yala',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             477 => 
             array (
@@ -10774,8 +10774,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Betong',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             478 => 
             array (
@@ -10785,8 +10785,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bannang Sata',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             479 => 
             array (
@@ -10796,8 +10796,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Than To',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             480 => 
             array (
@@ -10807,8 +10807,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yaha',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             481 => 
             array (
@@ -10818,8 +10818,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Raman',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             482 => 
             array (
@@ -10829,8 +10829,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Kabang',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             483 => 
             array (
@@ -10840,8 +10840,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Krong Pinang',
                 'province_id' => 75,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             484 => 
             array (
@@ -10851,8 +10851,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Narathiwat',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             485 => 
             array (
@@ -10862,8 +10862,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Tak Bai',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             486 => 
             array (
@@ -10873,8 +10873,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bacho',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             487 => 
             array (
@@ -10884,8 +10884,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Yi-ngo',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             488 => 
             array (
@@ -10895,8 +10895,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Ra-ngae',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             489 => 
             array (
@@ -10906,8 +10906,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Rueso',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             490 => 
             array (
@@ -10917,8 +10917,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Sakhon',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             491 => 
             array (
@@ -10928,8 +10928,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Waeng',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             492 => 
             array (
@@ -10939,8 +10939,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Sukhirin',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             493 => 
             array (
@@ -10950,8 +10950,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Su-ngai Kolok',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             494 => 
             array (
@@ -10961,8 +10961,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Su-ngai Padi',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             495 => 
             array (
@@ -10972,8 +10972,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Chanae',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             496 => 
             array (
@@ -10983,8 +10983,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Cho-airong',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             497 => 
             array (
@@ -10994,8 +10994,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bang Nra',
                 'province_id' => 76,
                 'geo_id' => 6,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             498 => 
             array (
@@ -11005,8 +11005,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Mueang Bueng Kan',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             499 => 
             array (
@@ -11016,8 +11016,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Seka',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
         ));
         \DB::table('districts')->insert(array (
@@ -11029,8 +11029,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'So Phisai',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             1 => 
             array (
@@ -11040,8 +11040,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Phon Charoen',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             2 => 
             array (
@@ -11051,8 +11051,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Si Wilai',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             3 => 
             array (
@@ -11062,8 +11062,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bueng Khong Long',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             4 => 
             array (
@@ -11073,8 +11073,8 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Pak Khat',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
             5 => 
             array (
@@ -11084,10 +11084,23 @@ class DistrictsTableSeeder extends Seeder
                 'district_name_en' => 'Bung Khla',
                 'province_id' => 77,
                 'geo_id' => 3,
-                'created_at' => '2018-01-08 16:56:38',
-                'updated_at' => '2018-01-08 16:56:38',
+                'created_at' => NULL,
+                'updated_at' => NULL,
             ),
         ));
+
+        \DB::table('districts')->update([
+            'created_at' => date('Y-m-d H:i:s'),
+            'updated_at' => date('Y-m-d H:i:s')
+            ]);
+
+        /*
+        [
+        'created_at' => date('Y-m-d H:i:s'),
+        'updated_at' => date('Y-m-d H:i:s')
+        ]
+
+        */
         
         
     }
