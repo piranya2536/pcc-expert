@@ -10,6 +10,9 @@ use App\Expert;
 use App\Contact;
 use App\UserInfo;
 use App\Work;
+use App\Education;
+use App\Service;
+use App\Research;
 
 use App\Province;
 use App\District;
@@ -143,7 +146,14 @@ class AdminController extends Controller
           'facebook' => $data['facebook'],
           'twitter' => $data['twitter'],
           'line' => $data['line']
-
+        ]);
+        $user_info_result = UserInfo::create([
+            'country' => $data['h_country'],
+            'province_id' => $data['h_province_id'],
+            'district_id' => $data['h_district_id'],
+            'sub_district_id' => $data['h_sub_district_id'],
+            'post_code' => $data['post_code'],
+            'address' => $data['address']
         ]);
         $work_result = Work::create([
            'expert_id' => $expert_result->id,
@@ -151,14 +161,38 @@ class AdminController extends Controller
            'work_end'=> $data['work_end'],
            'company_name'=> $data['company_name'],
            'province_id'=> $data['wk_province_id'],
-           'country'=> $data['country'],
+           'country'=> $data['wk_country'],
            'position'=> $data['position'],
-           'job_des'=> $data['job_des']
-            
+           'job_des'=> $data['job_des']    
         ]);
-
+        $education_result = Education::create([
+           'univ_name' => $data['univ_name'],
+           'univ_province' => $data['edu_province_id'],
+           'univ_country' => $data['univ_country'],
+           'edu_level' => $data['edu_level'],
+           'degree_name' => $data['degree_name'],
+           'fac_name' => $data['fac_name'],
+           'major_name' => $data['major_name'],
+           'edu_end' => $data['edu_end']
+        ]);
+        $service_result = Service::create([
+            'project_name' => $data['project_name'],
+            'acti_name' => $data['acti_name'],
+            'acti_start' => $data['acti_start'],
+            'acti_end' => $data['acti_end'],
+            'role' => $data['role'],
+            'short_desc' => $data['short_desc']         
+        ]); 
+        $service_result = Research::create([
+            'research_name' => $data['research_name'],
+            'research_role' => $data['research_role'],
+            'status' => $data['status'],
+            'short_desc' => $data['r_short_desc'],
+        ]);
+      
         return redirect('admin/expert');
     }
+        
 
     public function expertDestroy(Request $req) {
         $exp_id = $req->get('exp_id');
@@ -181,11 +215,29 @@ class AdminController extends Controller
             'mobile' => 'required|string|max:10',
             'email' => 'required|string|email',
             'address' => 'required|string',
-            'country' => 'required|string',
-            'province_id' => 'required|integer',
-            'district_id' => 'required|integer',
-            'sub_district_id' => 'required|integer',
+            'h_country' => 'required|string',
+            'h_province_id' => 'required|integer',
+            'h_district_id' => 'required|integer',
+            'h_sub_district_id' => 'required|integer',
             'post_code' => 'required|string',
+            'company_name' => 'required|string',
+            'wk_country' => 'required|string',
+            'wk_province_id' => 'required|integer',
+            'work_start' => 'required|string',
+            'work_end' => 'required|string',
+            'position' => 'required|string',
+            'edu_level' => 'required|string',
+            'univ_name' => 'required|string',
+            'univ_country' => 'required|string',
+            'edu_province_id' =>'required|integer',
+            'degree_name' => 'required|string',
+            'fac_name' => 'required|string',
+            'major_name' => 'required|string'              
+
         ]);
+    }
+
+    public function projectIndex(){
+        return view('admins.project');
     }
 }

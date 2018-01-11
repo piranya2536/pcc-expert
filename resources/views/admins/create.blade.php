@@ -1,7 +1,6 @@
 @extends('admins.layout') @section('sidebar') @parent
 <p>This is appended to the master sidebar.</p>
 @endsection @section('content')
-
 <div class="form-group has-error">
     @foreach($errors->all() as $val)
     <span class="help-block">
@@ -205,7 +204,7 @@
         </div>
     </div>
     <br/>
-    <!-- address ตั้งแต่ตรงนี้ตรงนี้ยังไม่ validator และ ดาต้าเบส -->
+    <!-- address -->
     <div class="card">
         <div class="card-header">
             ที่อยู่ตามทะเบียนบ้าน
@@ -215,19 +214,19 @@
                 <label class="col-sm-2 col-form-label">ประเทศ</label>
                 <div class="col-sm-10">
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="country" id="country1" value="ไทย" checked>
-                        <label class="custom-control-label" for="country1">ไทย</label>
+                        <input class="custom-control-input" type="radio" name="h_country" id="h_country1" value="ไทย" checked>
+                        <label class="custom-control-label" for="h_country1">ไทย</label>
                     </div>
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="country" id="country2" value="ไทย">
-                        <label class="custom-control-label" for="country2">อื่นๆ</label>
+                        <input class="custom-control-input" type="radio" name="h_country" id="h_country2" value="ไทย">
+                        <label class="custom-control-label" for="h_country2">อื่นๆ</label>
                     </div>
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">จังหวัด</label>
                 <div class="form-group col-md-6 nav-container">
-                    <select class="form-control nav" name="province_id" id="province_id" value="{{ old('province_id') }}">
+                    <select class="form-control nav" name="h_province_id" id="h_province_id" requried value="{{ old('h_province_id') }}">
                         @foreach($provinces as $i => $province)
                         <option value="{{ $province->id }}">{{ $province->province_name }}
                             </option/> @endforeach
@@ -237,20 +236,19 @@
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">อำเภอ/เขต</label>
                 <div class="form-group col-md-6 nav-container">
-                    <select class="form-control nav" name="district_id" id="district_id" value="{{ old('district_id') }}">
-                        @foreach($districts as $i => $district)
-                        <option value="{{ $district->id }}">{{ $district->district_name }}
-                            </option/> @endforeach
+                    <select class="form-control nav" name="h_district_id" id="h_district_id" required value="{{ old('h_district_id') }}">
+
+                        <option value="0"> เมือง
+                            </option/>
                     </select>
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ตำบล</label>
                 <div class="form-group col-md-6 nav-contianer">
-                    <select class="form-control" name="sub_district_id" id="sub_district_id" value="{{ old('sub_district_id') }}">
-                        @foreach($sub_districts as $i => $sub_district)
-                        <option value="{{ $sub_district->id }}">{{ $sub_district->sub_district_name }}
-                            </option/> @endforeach
+                    <select class="form-control" name="h_sub_district_id" id="h_sub_district_id" required value="{{ old('h_sub_district_id') }}">
+                        <option value="1"> ไสไทย
+                            </option/>
                     </select>
                 </div>
             </div>
@@ -285,11 +283,11 @@
                 <label class="col-sm-2 col-form-label">ประเทศ</label>
                 <div class="col-sm-10">
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="wk_country" id="wk_country_1" value="ไทย" checked>
+                        <input class="custom-control-input" type="radio" name="wk_country" id="wk_country_1" value="1" checked>
                         <label class="custom-control-label" for="wk_country_1">ไทย</label>
                     </div>
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="wk_country" id="wk_country_2" value="ไทย">
+                        <input class="custom-control-input" type="radio" name="wk_country" id="wk_country_2" value="0">
                         <label class="custom-control-label" for="wk_country_2">อื่นๆ</label>
                     </div>
                 </div>
@@ -318,20 +316,21 @@
                             <span class="input-group-text" id="inputGroup-sizing-default">จาก</span>
                         </div>
                         <input type="date" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" id="work_start"
-                            name="work_start">
+                            name="work_start" value="{{ old('work_start') }}">
                     </div>
                     <div class=" input-group col-md-4">
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="inputGroup-sizing-default">ถึง</span>
                         </div>
-                        <input type="date" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" id="work_end" name="work_end">
+                        <input type="date" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" id="work_end" name="work_end"
+                            value="{{ old('work_start') }}">
                     </div>
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ลักษณะงานที่รับผิดชอบ</label>
                 <div class="form-group col-md-6">
-                    <textarea id="job_des" name="job_des" class="form-control"></textarea>
+                    <textarea id="job_des" name="job_des" class="form-control" value="{{ old('job_des') }}" ></textarea>
                 </div>
             </div>
         </div>
@@ -344,61 +343,75 @@
         </div>
         <div class="card-body">
             <div class="form-row">
-                <label class="col-sm-2 col-form-label">สถาบันศึกษา</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
-                </div>
-            </div>
-
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">คณะหรือเทียบเท่า</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
-                </div>
-            </div>
-
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">วุฒฺิการศึกษา</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
-                </div>
-            </div>
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">สาขาวิชา</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
-                </div>
-            </div>
-            <div class="form-row">
                 <label class="col-sm-2 col-form-label">ระดับการศึกษา</label>
                 <div class="form-group col-md-6 nav-container">
-                    <select class="form-control nav">
+                    <select class="form-control nav" id="edu_level" name="edu_level" value="{{ old('edu_level')}}">
                         <option value="ต่ำกว่าปริญญาตรี">ต่ำกว่าปริญญาตรี</option>
-                        <option value="ปริญญาตี">ปริญญาตี</option>
+                        <option value="ปริญญาตรี">ปริญญาตรี</option>
                         <option value="ปริญญาโท">ปริญญาโท</option>
                         <option value="ปริญญาเอก">ปริญญาเอก</option>
                     </select>
+                </div>
+            </div>
+            <div class="form-row">
+                <label class="col-sm-2 col-form-label">สถาบันศึกษา</label>
+                <div class="form-group col-md-6">
+                    <input type="text" class="form-control" id="univ_name" name="univ_name" placeholder="" required value="{{ old('univ_name') }}">
                 </div>
             </div>
             <div class="form-group row">
                 <label class="col-sm-2 col-form-label">ประเทศ</label>
                 <div class="col-sm-10">
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="country" id="country1" value="ไทย" checked>
-                        <label class="custom-control-label" for="country1">ไทย</label>
+                        <input class="custom-control-input" type="radio" name="univ_country" id="univ_country1" value="ไทย" value="{{ old('univ_country') }}" checked>
+                        <label class="custom-control-label" for="univ_country1">ไทย</label>
                     </div>
                     <div class="custom-control custom-radio custom-control-inline">
-                        <input class="custom-control-input" type="radio" name="country" id="country2" value="ไทย">
-                        <label class="custom-control-label" for="country2">อื่นๆ</label>
+                        <input class="custom-control-input" type="radio" name="univ_country" id="univ_country2" value="อื่นๆ" value="{{ old('univ_country') }}">
+                        <label class="custom-control-label" for="univ_country2">อื่นๆ</label>
                     </div>
+                </div>
+            </div>
+            <div class="form-row">
+                <label class="col-sm-2 col-form-label">จังหวัด</label>
+                <div class="form-group col-md-6 nav-container">
+                    <select class="form-control nav" name="edu_province_id" id="edu_province_id" required value="{{ old('edu_province_id') }}">
+                        @foreach($provinces as $i => $province)
+                        <option value="{{ $province->id }}">{{ $province->province_name }}
+                            </option/> @endforeach
+                    </select>
+                </div>
+            </div>
+            <div class="form-row">
+                <label class="col-sm-2 col-form-label">วุฒิการศึกษา</label>
+                <div class="form-group col-md-6">
+                    <input type="text" class="form-control" id="degree_name" name="degree_name" placeholder="" required value="{{ old('degree_name') }}">
+                </div>
+            </div>
+            <div class="form-row">
+                <label class="col-sm-2 col-form-label">คณะหรือเทียบเท่า</label>
+                <div class="form-group col-md-6">
+                    <input type="text" class="form-control" id="fac_name" name="fac_name" placeholder="" required value="{{ old('fac_name') }}">
+                </div>
+            </div>
+            <div class="form-row">
+                <label class="col-sm-2 col-form-label">สาขาวิชา</label>
+                <div class="form-group col-md-6">
+                    <input type="text" class="form-control" id="major_name" name="major_name" placeholder="" required value="{{ old('major_name') }}">
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ปีที่จบ</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="date" class="form-control" id="edu_end" name="edu_end" placeholder="" required value="{{ old('edu_end') }}">
                 </div>
             </div>
+            <div class="row">
+        <div class="col-md-10"></div>
+        <div class="col-md-2">    
+        <input type="button" class="btn btn-primary" id="submit" value="เพิ่ม">
+        </div>
+    </div>
         </div>
     </div>
     </br>
@@ -413,13 +426,13 @@
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ชื่อโครงการ</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="text" class="form-control" id="project_name" name="project_name" placeholder="" value="{{ old('project_name') }}">
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ชื่อกิจกรรม</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="text" class="form-control" id="acti_name" name="acti_name" placeholder="" value="{{ old('acti_name') }}">
                 </div>
             </div>
             <div class="form-group">
@@ -429,26 +442,28 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="inputGroup-sizing-default">เริ่ม</span>
                         </div>
-                        <input type="date" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+                        <input type="date" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" id="acti_start"
+                            name="acti_start" value="{{ old('acti_start')}}">
                     </div>
                     <div class=" input-group col-md-4">
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="inputGroup-sizing-default">สิ้นสุด</span>
                         </div>
-                        <input type="date" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+                        <input type="date" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" id="acti_end"  name="acti_end" value="{{ old('acti_end') }}"> 
                     </div>
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">บทบาท</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="text" class="form-control" id="id_card" name="role" placeholder=""  value="{{ old(
+                            'role') }}">
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">คำอธิบายสั้นๆเกี่ยวกับกิจกรรม</label>
                 <div class="form-group col-md-6">
-                    <textarea id="message" name="phone" class="form-control"></textarea>
+                    <textarea  class="form-control" name="short_desc" id="short_desc"></textarea>
                 </div>
             </div>
             <br></br>
@@ -457,28 +472,30 @@
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">ชื่อผลงาน</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="text" class="form-control" id="research_name" name="research_name" placeholder="
+                           "  value="{{ old( 'research_name') }}">
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">บทบาทในงานวิจัย</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="text" class="form-control" id="research_role" name="research_role" placeholder="
+                           "  value="{{ old( 'research_role') }}">
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">สถานะงานวิจัย</label>
                 <div class="form-group col-md-6 nav-container">
-                    <select class="form-control nav">
-                        <option value="กำลังวิจัย">กำลังวิจัย</option>
-                        <option value="ตีพิมพ์">ตีพิมพ์</option>
+                    <select class="form-control nav" name="status" id="status">
+                        <option value="0">กำลังวิจัย</option>
+                        <option value="1">ตีพิมพ์</option>
                     </select>
                 </div>
             </div>
             <div class="form-row">
                 <label class="col-sm-2 col-form-label">คำอธิบายสั้นๆเกี่ยวกับงานวิจัย</label>
                 <div class="form-group col-md-6">
-                    <textarea id="message" name="phone" class="form-control"></textarea>
+                    <textarea id="r_short_desc" name="r_short_desc" class="form-control"></textarea>
                 </div>
             </div>
         </div>
@@ -507,12 +524,12 @@
                 </div>
             </div>
             <div class="form-row">
-                <label class="col-sm-2 ">เรื่องที่สนใจ</label>
+                <label class="col-sm-2">เรื่องที่สนใจ</label>
                 <div class="form-group col-md-6">
-                    <input type="text" class="form-control nav" id="id_card" name="id_card" placeholder="" required value="{{ old('id_card') }}">
+                    <input type="text" class="form-control nav" id="id_card" name="id_card" placeholder="
+                           " required value="{{ old( 'id_card') }}">
                 </div>
             </div>
-
         </div>
     </div>
     </br>
@@ -521,7 +538,7 @@
         <div class="col-md-5"></div>
         <div class="col-md-2">{{ csrf_field() }}
             <input type="submit" class="btn btn-primary" id="submit" value="บันทึก">
-            <a href="{{ url('admin/expert') }}" class="btn btn-danger">ยกเลิก</a>
+            <a href="{{ url( 'admin/expert') }}" class="btn btn-danger">ยกเลิก</a>
         </div>
     </div>
 </form>

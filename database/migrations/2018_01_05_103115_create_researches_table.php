@@ -15,6 +15,10 @@ class CreateResearchesTable extends Migration
     {
         Schema::create('researches', function (Blueprint $table) {
             $table->increments('id');
+            $table->string('research_name')->nullable();
+            $table->string('research_role')->nullable();
+            $table->integer('status')->nullable();
+            $table->longtext('short_desc')->nullable();
             $table->timestamps();
         });
     }

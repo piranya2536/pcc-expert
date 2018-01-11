@@ -25,6 +25,7 @@ Route::prefix('admin')->group(function () {
     Route::get('expert/create', 'AdminController@expertCreate');
     Route::post('expert', 'AdminController@expertStore');
     Route::delete('expert', 'AdminController@expertDestroy');
+    Route::get('project', 'AdminController@projectIndex');
 });
 
 Route::resource('admin', 'AdminController');

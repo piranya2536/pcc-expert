@@ -20,9 +20,9 @@ class CreateWorksTable extends Migration
             $table->date('work_end');
             $table->string('company_name');
             $table->string('position');
-            $table->string('job_des');
+            $table->string('job_des')->nullable();
             $table->integer('province_id');
-            $table->integer('country');
+            $table->string('country');
             $table->timestamps();
         });
     }
