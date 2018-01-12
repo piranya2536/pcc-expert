@@ -290,6 +290,11 @@ class AdminController extends Controller
         return redirect('admin/project');
     }
 
+    public function projectDetail($id){
+        $project = Project::find($id);
+        return view('admins.project_detail', ['project' => $project]);
+    }
+
     public function activityCreate(){
         $projects = Project::orderBy('year_fund')->get();
         return view('admins.activity_create', ['projects' => $projects]);

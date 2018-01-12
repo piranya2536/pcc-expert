@@ -26,11 +26,26 @@
       <td>{{ $val->year_fund}}</td>
       <td>{{ $val->project_code}}</td>
       <td>{{ $val->project_name}}</td>
-      <td>{{ $val->activity()->activity_name or '-'}}</td>
-      <td>{{ $val->status}}</td>
+      <td>
+        @foreach($val->activity as $activity)
+          <a href="#"> - {{ $activity->activity_name }} </a><br>
+        @endforeach
+      </td>
+      <td>
+        @foreach($val->activity as $activity)
+          @if($activity->status == 0)
+            <span class="badge badge-danger">ไม่สามารถดำเนินการได้</span></h1>
+          @elseif($activity->sataus == 1)
+            <span class="badge badge-success">เสร็จสิ้นโครงการ</span></h1>
+          @else
+            <span class="badge badge-primary">กำลังดำเนินการ</span></h1>
+          @endif
+          <br>
+        @endforeach
+      </td>
       <td class="text-center">
-        <a href="#" class="btn btn-primary btn-xs"><i class="fas fa-eye" aria-hidden="true"></i></i></a>
-        <a href="{{ url('admin/project').'/'.$val->id }}" class="btn btn-success btn-xs"><i class="fas fa-pen-square" aria-hidden="true"></i></i></a>
+        <a href="{{ url('admin/project').'/'.$val->id.'/detail' }}" class="btn btn-primary btn-xs"><i class="fas fa-eye" aria-hidden="true"></i></i></a>
+        <a href="{{ url('admin/project').'/'.$val->id }}" class="btn btn-secondary btn-xs"><i class="fas fa-pen-square" aria-hidden="true"></i></i></a>
         <a href="#" class="btn btn-danger btn-xs"><i class="fas fa-trash-alt" aria-hidden="true"></i></i></a>
       </td>
     </tr>

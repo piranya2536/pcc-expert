@@ -34,6 +34,7 @@ Route::prefix('admin')->group(function () {
 
     Route::get('project/{id}', 'AdminController@projectEdit');
     Route::put('project/{id}', 'AdminController@projectUpdate');
+    Route::get('project/{id}/detail', 'AdminController@projectDetail');
 
     Route::get('user', 'Admincontroller@userIndex');
     Route::get('user/create', 'Admincontroller@userCreate');
