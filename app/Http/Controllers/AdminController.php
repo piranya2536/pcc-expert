@@ -13,6 +13,8 @@ use App\Work;
 use App\Education;
 use App\Service;
 use App\Research;
+use App\Project;
+use App\Activity;
 
 use App\Province;
 use App\District;
@@ -193,7 +195,6 @@ class AdminController extends Controller
         return redirect('admin/expert');
     }
         
-
     public function expertDestroy(Request $req) {
         $exp_id = $req->get('exp_id');
         $result = Expert::destroy($exp_id);
@@ -239,5 +240,53 @@ class AdminController extends Controller
 
     public function projectIndex(){
         return view('admins.project');
+    }
+    public function projectCreate(){
+        return view('admins.project_create');
+    }
+    public function projectStore(Request $req){
+        $data = $req->all();
+        $validator = Validator::make($data, [
+            'project_code'  => 'required|string',
+            'project_name'  => 'required|string',
+            'year_fund'     => 'required|string',
+            'fund'          => 'required|string',
+            'dep'           => 'required|string',
+            'activity_name' => 'required|string',
+            'date_start'    => 'required|string',
+            'date_end'      => 'required|string',
+            'expert_id'     => 'required|string',
+            'status'        => 'required|string'
+        ]);
+
+        if($validator->fails()) {
+            $req->flash();
+            dd($validator->errors());
+            return back()->with(['errors' => $validator->errors()]);
+        }
+
+        $project_result = Project::create([
+            'project_code'  => $data['project_code'],
+            'project_name'  => $data['project_name'],
+            'year_fund'     => $data['year_fund'],
+            'fund'          => $data['fund'],
+            'dep'           => $data['dep']
+        ]);
+
+        $activity_result = Activity::create([
+            'activity_name' => $data['activity_name'],
+            'date_start'    => $data['date_start'],
+            'date_end'      => $data['date_end'],
+            'expert_id'     => $data['expert_id'],
+            'participant_amount' => $data['participant_amount'],
+            'status'        => $data['status']
+        ]);
+    }
+
+    public function userIndex(){
+        return view('admins.user');
+    }
+    public function userCreate() {
+        return view('admins.user_create');
     }
 }
