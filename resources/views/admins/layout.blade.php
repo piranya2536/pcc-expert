@@ -21,8 +21,7 @@
     <script src="{{ asset('assets/js/bootstrap-datepicker.js') }}"></script>
     <script src="{{ asset('assets/locales/bootstrap-datepicker.th.min.js') }}"></script>
     <!-- /script -->
-    @section('head')
-    @show
+    @yield('head')
 </head>
 
 <body>
@@ -59,7 +58,7 @@
         </div>
     </nav>
     @show
-    <div class="container">
+    <div class="col-md-9">
         @yield('content')
     </div>
 

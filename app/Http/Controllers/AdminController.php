@@ -239,7 +239,8 @@ class AdminController extends Controller
     }
 
     public function projectIndex(){
-        return view('admins.project');
+        $projects = Project::orderBy('year_fund', 'des')->get();
+        return view('admins.project', ['projects' => $projects]);
     }
     public function projectCreate(){
         return view('admins.project_create');
@@ -252,11 +253,6 @@ class AdminController extends Controller
             'year_fund'     => 'required|string',
             'fund'          => 'required|string',
             'dep'           => 'required|string',
-            'activity_name' => 'required|string',
-            'date_start'    => 'required|string',
-            'date_end'      => 'required|string',
-            'expert_id'     => 'required|string',
-            'status'        => 'required|string'
         ]);
 
         if($validator->fails()) {
@@ -273,7 +269,51 @@ class AdminController extends Controller
             'dep'           => $data['dep']
         ]);
 
+        return back();
+    }
+    public function projectEdit($id){
+        $project = Project::find($id);
+        return view('admins.project_update', ['project' => $project]);
+    }
+
+    public function projectUpdate(Request $req, $id){
+        $data = $req->all();
+        $project = Project::find($id);
+        if($project) {
+            $project->project_code  = $data['project_code'];
+            $project->project_name  = $data['project_name'];
+            $project->year_fund     = $data['year_fund'];
+            $project->fund          = $data['fund'];
+            $project->dep           = $data['dep'];
+            $project->save();
+        }
+        return redirect('admin/project');
+    }
+
+    public function activityCreate(){
+        $projects = Project::orderBy('year_fund')->get();
+        return view('admins.activity_create', ['projects' => $projects]);
+    }
+    public function activityStore(Request $req){
+        $data = $req->all();
+        $validator = Validator::make($data, [
+            'project_id'    => 'required|integer',
+            'activity_name' => 'required|string',
+            'date_start'    => 'required|string',
+            'date_end'      => 'required|string',
+            'expert_id'     => 'required|string',
+            'participant_amount'     => 'required|integer',
+            'status'        => 'required|string'
+        ]);
+
+        if($validator->fails()) {
+            $req->flash();
+            dd($validator->errors());
+            return back()->with(['errors' => $validator->errors()]);
+        }
+
         $activity_result = Activity::create([
+            'project_id' => $data['project_id'],
             'activity_name' => $data['activity_name'],
             'date_start'    => $data['date_start'],
             'date_end'      => $data['date_end'],
@@ -281,6 +321,7 @@ class AdminController extends Controller
             'participant_amount' => $data['participant_amount'],
             'status'        => $data['status']
         ]);
+        return redirect('admin/project');
     }
 
     public function userIndex(){

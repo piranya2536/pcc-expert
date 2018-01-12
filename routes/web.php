@@ -28,8 +28,17 @@ Route::prefix('admin')->group(function () {
     Route::get('project', 'AdminController@projectIndex');
     Route::get('project/create', 'AdminController@projectCreate');
     Route::post('project', 'Admincontroller@projectStore');
+
+    Route::get('activity/create', 'AdminController@activityCreate');
+    Route::post('activity', 'Admincontroller@activityStore');
+
+    Route::get('project/{id}', 'AdminController@projectEdit');
+    Route::put('project/{id}', 'AdminController@projectUpdate');
+
     Route::get('user', 'Admincontroller@userIndex');
     Route::get('user/create', 'Admincontroller@userCreate');
+
+    
 });
 
 Route::resource('admin', 'AdminController');

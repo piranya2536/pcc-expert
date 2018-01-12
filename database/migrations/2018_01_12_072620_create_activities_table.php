@@ -15,6 +15,7 @@ class CreateActivitiesTable extends Migration
     {
         Schema::create('activities', function (Blueprint $table) {
             $table->increments('id');
+            $table->integer('project_id');
             $table->string('activity_name');
             $table->date('date_start');
             $table->date('date_end');

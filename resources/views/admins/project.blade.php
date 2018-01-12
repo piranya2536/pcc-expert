@@ -6,52 +6,35 @@
 @endsection 
 @section('content')
 <br>
-<div class="container">
-    
-    <div class="row">
-        <div class="panel panel-primary filterable">
-            <div class="panel-heading">
-                <h3 class="panel-title">ข้อมูลโครงการ</h3>
-                <hr><br>
-                <div class="pull-right">
-                    <button class="btn btn-default btn-xs btn-filter"><span class="glyphicon glyphicon-filter"></span> Filter</button>
-                </div>
-            </div>
-            <table class="table">
-                <thead>
-                    <tr class="filters">
-                        <th><input type="text" class="form-control" placeholder="ลำดับที่" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="ปีงบประมาณ" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="รหัสโครงการ" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="ชื่อโครการ" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="ชื่อกิจกรรม/หลักสูตร" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="วันที่เริ่ม" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="วันที่สิ้นสุด" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="ชื่อวิทยากร" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="จำนวนผู้เข้าร่วม" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="แหล่งงบประมาณ" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="หน่วยงาน" disabled></th>
-                        <th><input type="text" class="form-control" placeholder="สถานะ" disabled></th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                        <td>1</td>
-                    </tr>
-                    
-                </tbody>
-            </table>
-        </div>
-    </div>
-</div>
-<script src="{{ asset('assets/js/project.js') }}"></script>
+<div class="content">
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col" class="text-center">#</th>
+      <th scope="col">ปีงบประมาณ</th>
+      <th scope="col">รหัสโครงการ</th>
+      <th scope="col">ชื่อโครการ</th>
+      <th scope="col">ชื่อกิจกรรม/หลักสูตร</th>
+      <th scope="col">สถานะ</th>
+      <th scope="col" class="text-center">จัดการ</th>
+    </tr>
+  </thead>
+  <tbody>
+  @foreach($projects as $i => $val)
+    <tr>
+      <th scope="row" class="text-center">{{ $i+1}}</th>
+      <td>{{ $val->year_fund}}</td>
+      <td>{{ $val->project_code}}</td>
+      <td>{{ $val->project_name}}</td>
+      <td>{{ $val->activity()->activity_name or '-'}}</td>
+      <td>{{ $val->status}}</td>
+      <td class="text-center">
+        <a href="#" class="btn btn-primary btn-xs"><i class="fas fa-eye" aria-hidden="true"></i></i></a>
+        <a href="{{ url('admin/project').'/'.$val->id }}" class="btn btn-success btn-xs"><i class="fas fa-pen-square" aria-hidden="true"></i></i></a>
+        <a href="#" class="btn btn-danger btn-xs"><i class="fas fa-trash-alt" aria-hidden="true"></i></i></a>
+      </td>
+    </tr>
+    @endforeach
+  </tbody>
+</table>
 @endsection
