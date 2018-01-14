@@ -27,6 +27,7 @@ class CreateExpertsTable extends Migration
             $table->date('birthday');
             $table->string('nationality');
             $table->tinyInteger('bursary');
+            $table->string('interesting');
             $table->string('image')->default('-');
             $table->timestamps();
         });

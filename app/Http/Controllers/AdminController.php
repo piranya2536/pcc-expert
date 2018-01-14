@@ -5,20 +5,23 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
-use App\Admin;
-use App\Expert;
-use App\Contact;
-use App\UserInfo;
-use App\Work;
-use App\Education;
-use App\Service;
-use App\Research;
-use App\Project;
-use App\Activity;
+use App\Models\Admin;
+use App\Models\Activity;
+use App\Models\Contact;
+use App\Models\Expert;
+use App\Models\ExpertExpertise;
+use App\Models\Education;
+use App\Models\Expertise;
+use App\Models\Major;
+use App\Models\UserInfo;
+use App\Models\Project;
+use App\Models\Research;
+use App\Models\Service;
+use App\Models\Work;
 
-use App\Province;
-use App\District;
-use App\SubDistrict;
+use App\Models\Province;
+use App\Models\District;
+use App\Models\SubDistrict;
 
 class AdminController extends Controller
 {
@@ -113,7 +116,9 @@ class AdminController extends Controller
         $provinces = Province::orderBy('province_name', 'asc')->get();
         $districts = District::all();
         $sub_districts = SubDistrict::all();
-        return view('admins.create', ['provinces' => $provinces, 'districts' => $districts, 'sub_districts' => $sub_districts]);
+        $expertises = Expertise::all();
+        $majors = Major::all();
+        return view('admins.expert_create', ['provinces' => $provinces, 'districts' => $districts, 'sub_districts' => $sub_districts, 'expertises' => $expertises, 'majors' => $majors]);
     }
 
     public function expertStore(Request $req) {
@@ -136,13 +141,14 @@ class AdminController extends Controller
             'birthday' => $data['birthday'],
             'id_card' => $data['id_card'],
             'nationality' => $data['nationality'],
+            'interesting' => $data['interesting'],
             'bursary' => $data['bursary']
         ]);
-        // $expertise = Expertise::create([
-        //     'expert_id' => $data['expert_id'],
-        //     'expertise_name_en' => $data['expertise_name_en'],   
-        //     'expertise_name_th' => $data['expertise_name_th']
-        // ]);
+        $expertise = ExpertExpertise::create([
+            'expert_id' => $expert_result->id,
+            'major_id'  => $data['major_id'],
+            'expertise_id' => $data['expertise_id']
+        ]);
         $contact_result = Contact::create([
           'phone' => $data['phone'],
           'phone_list' => $data['phone_list'],
@@ -162,11 +168,6 @@ class AdminController extends Controller
            'post_code' => $data['post_code'],
            'address' => $data['address']
         ]);
-        // $major_result = Major::create([
-        //    'expertise_id' => $data['expertise_id'],
-        //    'major_name_en' => $data['major_name_en'],
-        //    'major_name_th' => $data['major_name_th']
-        // ]);
         $work_result = Work::create([
            'expert_id' => $expert_result->id,
            'work_start' => $data['work_start'],
@@ -224,6 +225,7 @@ class AdminController extends Controller
             'id_card' => 'required|string|max:13',
             'nationality' => 'required|string',
             'mobile' => 'required|string|max:10',
+            'interesting' => 'required|string',
             'email' => 'required|string|email',
             'address' => 'required|string',
             'h_country' => 'required|string',
@@ -243,9 +245,8 @@ class AdminController extends Controller
             'edu_province_id' =>'required|integer',
             'degree_name' => 'required|string',
             'fac_name' => 'required|string',
-            'major_name' => 'required|string',
-            'expertise_name_th' => 'required|string',
-            'expertise_name_en' => 'required|string',           
+            'major_id' => 'required|integer',
+            'expertise_id' => 'required|integer',        
 
         ]);
     }

@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
  
@@ -10,6 +10,6 @@ class Activity extends Model
 
 
     public function project() {
-        return $this->belongTo('App\Project');
+        return $this->belongTo('App\Models\Project');
     }
 }

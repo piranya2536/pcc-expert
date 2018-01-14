@@ -1,10 +1,19 @@
-@extends('admins.layout') @section('sidebar') 
-@parent
-@endsection
+@extends('layouts.admin') 
 @section('content')
-<br>
 <div class="content">
-<table class="table">
+<div class="panel panel-flat">
+            <div class="panel-heading">
+                <h5 class="panel-title">ค้นหา<a class="heading-elements-toggle"><i class="icon-more"></i></a></h5>
+                <div class="heading-elements">
+                    <ul class="icons-list">
+                        <li><a data-action="collapse"></a></li>
+                        <li><a data-action="reload"></a></li>
+                        <li><a data-action="close"></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="panel-body">
+  <table class="table">
   <thead>
     <tr>
       <th scope="col" class="text-center">#</th>
@@ -47,12 +56,15 @@
         @endforeach
       </td>
       <td class="text-center">
-        <a href="{{ url('admin/project').'/'.$val->id.'/detail' }}" class="btn btn-primary btn-xs"><i class="fas fa-eye" aria-hidden="true"></i></i></a>
-        <a href="{{ url('admin/project').'/'.$val->id }}" class="btn btn-secondary btn-xs"><i class="fas fa-pen-square" aria-hidden="true"></i></i></a>
-        <a href="#" class="btn btn-danger btn-xs"><i class="fas fa-trash-alt" aria-hidden="true" data-id="{{ $val->id }}"></i></i></a>
+        <a href="{{ url('admin/project').'/'.$val->id.'/detail' }}" class="btn btn-primary btn-xs"><i class="icon-eye" aria-hidden="true"></i></i></a>
+        <a href="{{ url('admin/project').'/'.$val->id }}" class="btn btn-default btn-xs"><i class="icon-pencil5" aria-hidden="true"></i></i></a>
+        <a href="#" class="btn btn-danger btn-xs"><i class="icon-bin" aria-hidden="true" data-id="{{ $val->id }}"></i></i></a>
       </td>
     </tr>
     @endforeach
   </tbody>
 </table>
+</div>
+</div>
+</div>
 @endsection
