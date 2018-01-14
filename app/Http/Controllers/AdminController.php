@@ -282,7 +282,7 @@ class AdminController extends Controller
             'dep'           => $data['dep']
         ]);
 
-        return back();
+        return redirect('admin/project');
     }
     public function projectEdit($id){
         $project = Project::find($id);
@@ -306,6 +306,17 @@ class AdminController extends Controller
     public function projectDetail($id){
         $project = Project::find($id);
         return view('admins.project_detail', ['project' => $project]);
+    }
+
+    public function projectDelete($id){
+        $project = Project::find($id);
+        $project->delete();
+        $activity = Activity::find($id);
+        if($activity){
+            $activity->delete();
+        }
+        
+        return redirect('admin/project');
     }
 
     public function activityCreate(){
@@ -339,6 +350,49 @@ class AdminController extends Controller
             'participant_amount' => $data['participant_amount'],
             'status'        => $data['status']
         ]);
+        return redirect('admin/project');
+    }
+    public function activityEdit($id){
+        $projects = Project::orderBy('year_fund')->get();
+        $activity = Activity::find($id);
+        return view('admins.activity_update', ['activity' => $activity, 'projects' => $projects]);
+    }
+
+    public function activityUpdate(Request $req, $id){
+        $data = $req->all();
+        $validator = Validator::make($data, [
+            'project_id'    => 'required|integer',
+            'activity_name' => 'required|string',
+            'date_start'    => 'required|string',
+            'date_end'      => 'required|string',
+            'expert_id'     => 'required|string',
+            'participant_amount'     => 'required|integer',
+            'status'        => 'required|string'
+        ]);
+
+        if($validator->fails()) {
+            $req->flash();
+            dd($validator->errors());
+            return back()->with(['errors' => $validator->errors()]);
+        }
+
+        $activity = Activity::find($id);
+        $activity->project_id =$data['project_id'];
+        $activity->activity_name =$data['activity_name'];
+        $activity->date_start = $data['date_start'];
+        $activity->date_end  = $data['date_end'];
+        $activity->expert_id  = $data['expert_id'];
+        $activity->participant_amount = $data['participant_amount'];
+        $activity->status = $data['status'];
+        $activity->save();
+
+
+        return redirect('admin/project');
+    }
+
+    public function activityDelete($id){
+        $activity = Activity::find($id);
+        $activity->delete();
         return redirect('admin/project');
     }
 

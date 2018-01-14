@@ -1,42 +1,47 @@
-@extends('admins.layout') @section('content')
-<br>
+@extends('layouts.admin')s @section('content')
 
-<form name="form" action="{{ url('admin/project') }}" method="post">
-    <div class="card">
-        <div class="card-header">
-            ข้อมูลโครงการ
+
+<div class="content">
+    <div class="panel panel-flat">
+        <div class="panel-heading">
+            <h5 class="panel-title">ข้อมูลโครงการ
+                <a class="heading-elements-toggle">
+                    <i class="icon-more"></i>
+                </a>
+            </h5>
         </div>
-        <div class="card-body">
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">ปีงบประมาณ</label>
-                <div class="form-group col-md-6">
-                    <input type='text' class="form-control" id='year_fund' name="year_fund" required value="{{ old('year_fund') }}">
+        <div class="panel-body">
+            <form name="form" action="{{ url('admin/project') }}" method="post" class="form-horizontal">
+              <div class="form-group">
+                    <label class="col-sm-2 col-form-label">ปีงบประมาณ</label>
+                    <div class="form-group col-md-6">
+                        <input type='text' class="form-control" id='year_fund' name="year_fund" required value="{{ old('year_fund') }}">
+                    </div>
                 </div>
-            </div>
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">รหัสโครงการ</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="project_code" name="project_code" placeholder="" required value="{{ old('project_code') }}">
+                <div class="form-group">
+                    <label class="col-sm-2 col-form-label">รหัสโครงการ</label>
+                    <div class="form-group col-md-6">
+                        <input type="text" class="form-control" id="project_code" name="project_code" placeholder="" required value="{{ old('project_code') }}">
+                    </div>
                 </div>
-            </div>
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">ชื่อโครงการ</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="project_name" name="project_name" placeholder="" required value="{{ old('project_name') }}">
+                <div class="form-group">
+                    <label class="col-sm-2 col-form-label">ชื่อโครงการ</label>
+                    <div class="form-group col-md-6">
+                        <input type="text" class="form-control" id="project_name" name="project_name" placeholder="" required value="{{ old('project_name') }}">
+                    </div>
                 </div>
-            </div>
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">แหล่งงบประมาณ</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="fund" name="fund" placeholder="" required value="{{ old('fund') }}">
+                <div class="form-group">
+                    <label class="col-sm-2 col-form-label">แหล่งงบประมาณ</label>
+                    <div class="form-group col-md-6">
+                        <input type="text" class="form-control" id="fund" name="fund" placeholder="" required value="{{ old('fund') }}">
+                    </div>
                 </div>
-            </div>
-            <div class="form-row">
-                <label class="col-sm-2 col-form-label">หน่วยงาน</label>
-                <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="dep" name="dep" placeholder="" required value="{{ old('dep') }}">
+                <div class="form-group">
+                    <label class="col-sm-2 col-form-label">หน่วยงาน</label>
+                    <div class="form-group col-md-6">
+                        <input type="text" class="form-control" id="dep" name="dep" placeholder="" required value="{{ old('dep') }}">
+                    </div>
                 </div>
-            </div>
         </div>
         <div class="row">
             <div class="col-md-5"></div>
@@ -48,16 +53,17 @@
         </div>
         </br>
     </div>
-    <script type="text/javascript">
-        $(function () {
-            $('#year_fund').datepicker({
-                format: "yyyy",
-                startView: 2,
-                minViewMode: 2,
-                autoclose: true,
-                thaiyear: true
-            });
+</div>
+<script type="text/javascript">
+    $(function () {
+        $('#year_fund').datepicker({
+            format: "yyyy",
+            startView: 2,
+            minViewMode: 2,
+            autoclose: true,
+            thaiyear: true
         });
-    </script>
+    });
+</script>
 
-    @endsection
+@endsection

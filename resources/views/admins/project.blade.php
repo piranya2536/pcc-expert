@@ -35,12 +35,12 @@
       <td>{{ $val->project_name}}</td>
       <td>
         @foreach($val->activity as $activity)
-          <a href="{{ url('admin/activity/create') }}"> - {{ $activity->activity_name }} </a><br>
+          <a href="{{  url('admin/activity').'/'.$activity->id.'/edit' }}"> - &nbsp;&nbsp; {{ $activity->activity_name }} </a><br>
         @endforeach
       </td>
       <td>
          @foreach($val->activity as $activity)
-          <a href="#">-{{$activity->expert_id}} </a><br>
+          <a href="#">- &nbsp;&nbsp; {{$activity->expert_id}} </a><br>
          @endforeach
       </td>
       <td>
@@ -58,7 +58,7 @@
       <td class="text-center">
         <a href="{{ url('admin/project').'/'.$val->id.'/detail' }}" class="btn btn-primary btn-xs"><i class="icon-eye" aria-hidden="true"></i></i></a>
         <a href="{{ url('admin/project').'/'.$val->id }}" class="btn btn-default btn-xs"><i class="icon-pencil5" aria-hidden="true"></i></i></a>
-        <a href="#" class="btn btn-danger btn-xs"><i class="icon-bin" aria-hidden="true" data-id="{{ $val->id }}"></i></i></a>
+        <a href="{{ url('admin/project').'/'.$val->id.'/delete' }}" class="btn btn-danger btn-xs"><i class="icon-bin" aria-hidden="true" data-id="{{ $val->id }}"></i></i></a>
       </td>
     </tr>
     @endforeach

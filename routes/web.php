@@ -25,17 +25,23 @@ Route::prefix('admin')->group(function () {
     Route::get('expert/create', 'AdminController@expertCreate');
     Route::post('expert', 'AdminController@expertStore');
     Route::delete('expert', 'AdminController@expertDestroy');
+    
     Route::get('project', 'AdminController@projectIndex');
     Route::get('project/create', 'AdminController@projectCreate');
     Route::post('project', 'Admincontroller@projectStore');
-
-    Route::get('activity/create', 'AdminController@activityCreate');
-    Route::post('activity', 'Admincontroller@activityStore');
-
     Route::get('project/{id}', 'AdminController@projectEdit');
     Route::put('project/{id}', 'AdminController@projectUpdate');
     Route::get('project/{id}/detail', 'AdminController@projectDetail');
+    Route::get('project/{id}/delete', 'AdminController@projectDelete');
 
+    Route::get('activity/create', 'AdminController@activityCreate');
+    Route::post('activity', 'Admincontroller@activityStore');
+    Route::get('activity/{id}/edit', 'Admincontroller@activityEdit');
+    Route::post('activity/{id}/edit', 'AdminController@activityUpdate');
+    Route::get('activity/{id}/delete', 'AdminController@activityDelete');
+    
+
+   
     Route::get('user', 'Admincontroller@userIndex');
     Route::get('user/create', 'Admincontroller@userCreate');
 

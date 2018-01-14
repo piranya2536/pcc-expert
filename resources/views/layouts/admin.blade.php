@@ -13,7 +13,8 @@
     <link href="{{ asset('assets/css/bootstrap.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/css/core.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/css/components.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/css/colors.css') }}" rel="stylesheet">
+	<link href="{{ asset('assets/css/colors.css') }}" rel="stylesheet">
+	<link href="{{ asset('assets/css/sweetalert2.min.css') }}" rel="stylesheet">
 	<!-- /global stylesheets -->
 
 	<!-- Core JS files -->
@@ -22,7 +23,8 @@
     <script type="text/javascript" src="{{ asset('assets/js/core/libraries/bootstrap.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/js/plugins/loaders/blockui.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/js/plugins/ui/nicescroll.min.js') }}"></script>
-    <script type="text/javascript" src="{{ asset('assets/js/plugins/ui/drilldown.js') }}"></script>
+	<script type="text/javascript" src="{{ asset('assets/js/plugins/ui/drilldown.js') }}"></script>
+	<script type="text/javascript" src="{{ asset('assets/js/sweetalert2.min.js') }}"></script>
 	<!-- /core JS files -->
 
 	<!-- Theme JS files -->
@@ -31,6 +33,8 @@
 	<script type="text/javascript" src="{{ asset('assets/js/core/app.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('assets/js/pages/form_layouts.js') }}"></script>
 	<!-- /theme JS files -->
+	@section("head")
+	@show
 </head>
 
 <body>
@@ -357,10 +361,19 @@
 							<ul class="navigation navigation-main navigation-accordion">
 
 								<!-- Main -->
-								<li class="navigation-header"><span>Main</span> <i class="icon-menu" title="Main pages"></i></li>
+								<li class="navigation-header"><span>PSU_Expert</span> <i class="icon-menu" title="Main pages"></i></li>
 								<li><a href="{{ url('admin/expert') }}"><i class="icon-home4"></i> <span>ผู้เชี่ยวชาญ</span></a></li>
-								<li><a href="{{ url('admin/project') }}"><i class="icon-home4"></i> <span>ข้อมูลโครงการ</span></a></li>
-								<li><a href="{{ url('admin/user') }}"><i class="icon-home4"></i> <span>ผู้ใช่งานระบบ</span></a></li>
+								<li class="">
+									<a href="#" class="has-ul"><i class="icon-pencil3"></i> <span>โครงการ</span></a>
+									<ul>
+										<li><a href="{{ url('admin/project') }}">ข้อมูลโครงการ</a></li>
+										<li><a href="{{ url('admin/project/create') }}">เพิ่มโครงการ</a></li>
+									    <li><a href="{{ url('admin/activity/create') }}">เพิ่มกิจกรรม/หลักสูตร</a></li>
+									</ul>
+								</li>
+
+								
+								<li><a href="{{ url('admin/user') }}"><i class=" icon-user"></i> <span>ผู้ใช่งานระบบ</span></a></li>
 								<!-- /main -->
 							</ul>
 						</div>
