@@ -11,6 +11,7 @@
     <link href="{{ asset('assets/css/sweetalert2.min.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/css/pcc.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/css/datepicker.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/simple-sidebar.css') }}" rel="stylesheet">
     <!-- /style -->
     <!-- Script -->
     <script src="{{ asset('assets/js/jquery-1.12.4.min.js') }}"></script>
@@ -58,9 +59,13 @@
         </div>
     </nav>
     @show
-    <div class="col-md-9">
-        @yield('content')
+    <div class="content">
+        <div class="col-md-9">
+            @yield('content')
+        </div>
     </div>
+    
+    
 
 </body>
 

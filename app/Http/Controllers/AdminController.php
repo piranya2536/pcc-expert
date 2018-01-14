@@ -138,6 +138,11 @@ class AdminController extends Controller
             'nationality' => $data['nationality'],
             'bursary' => $data['bursary']
         ]);
+        // $expertise = Expertise::create([
+        //     'expert_id' => $data['expert_id'],
+        //     'expertise_name_en' => $data['expertise_name_en'],   
+        //     'expertise_name_th' => $data['expertise_name_th']
+        // ]);
         $contact_result = Contact::create([
           'phone' => $data['phone'],
           'phone_list' => $data['phone_list'],
@@ -150,13 +155,18 @@ class AdminController extends Controller
           'line' => $data['line']
         ]);
         $user_info_result = UserInfo::create([
-            'country' => $data['h_country'],
-            'province_id' => $data['h_province_id'],
-            'district_id' => $data['h_district_id'],
-            'sub_district_id' => $data['h_sub_district_id'],
-            'post_code' => $data['post_code'],
-            'address' => $data['address']
+           'country' => $data['h_country'],
+           'province_id' => $data['h_province_id'],
+           'district_id' => $data['h_district_id'],
+           'sub_district_id' => $data['h_sub_district_id'],
+           'post_code' => $data['post_code'],
+           'address' => $data['address']
         ]);
+        // $major_result = Major::create([
+        //    'expertise_id' => $data['expertise_id'],
+        //    'major_name_en' => $data['major_name_en'],
+        //    'major_name_th' => $data['major_name_th']
+        // ]);
         $work_result = Work::create([
            'expert_id' => $expert_result->id,
            'work_start' => $data['work_start'],
@@ -233,7 +243,9 @@ class AdminController extends Controller
             'edu_province_id' =>'required|integer',
             'degree_name' => 'required|string',
             'fac_name' => 'required|string',
-            'major_name' => 'required|string'              
+            'major_name' => 'required|string',
+            'expertise_name_th' => 'required|string',
+            'expertise_name_en' => 'required|string',           
 
         ]);
     }

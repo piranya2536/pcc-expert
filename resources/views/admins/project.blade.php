@@ -1,9 +1,6 @@
 @extends('admins.layout') @section('sidebar') 
 @parent
 @endsection
-@section('head')
-<link href="{{ asset('assets/css/styleproject.css') }}" rel="stylesheet">
-@endsection 
 @section('content')
 <br>
 <div class="content">
@@ -15,8 +12,9 @@
       <th scope="col">รหัสโครงการ</th>
       <th scope="col">ชื่อโครการ</th>
       <th scope="col">ชื่อกิจกรรม/หลักสูตร</th>
+      <th scope="col">วิทยากร</th>
       <th scope="col">สถานะ</th>
-      <th scope="col" class="text-center">จัดการ</th>
+      <th scope="col" class="text-center">การจัดการ</th>
     </tr>
   </thead>
   <tbody>
@@ -28,8 +26,13 @@
       <td>{{ $val->project_name}}</td>
       <td>
         @foreach($val->activity as $activity)
-          <a href="#"> - {{ $activity->activity_name }} </a><br>
+          <a href="{{ url('admin/activity/create') }}"> - {{ $activity->activity_name }} </a><br>
         @endforeach
+      </td>
+      <td>
+         @foreach($val->activity as $activity)
+          <a href="#">-{{$activity->expert_id}} </a><br>
+         @endforeach
       </td>
       <td>
         @foreach($val->activity as $activity)
@@ -46,7 +49,7 @@
       <td class="text-center">
         <a href="{{ url('admin/project').'/'.$val->id.'/detail' }}" class="btn btn-primary btn-xs"><i class="fas fa-eye" aria-hidden="true"></i></i></a>
         <a href="{{ url('admin/project').'/'.$val->id }}" class="btn btn-secondary btn-xs"><i class="fas fa-pen-square" aria-hidden="true"></i></i></a>
-        <a href="#" class="btn btn-danger btn-xs"><i class="fas fa-trash-alt" aria-hidden="true"></i></i></a>
+        <a href="#" class="btn btn-danger btn-xs"><i class="fas fa-trash-alt" aria-hidden="true" data-id="{{ $val->id }}"></i></i></a>
       </td>
     </tr>
     @endforeach
